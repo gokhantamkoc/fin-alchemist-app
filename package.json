@@ -1,0 +1,37 @@
+{
+  "name": "fin-alchemist",
+  "version": "1.0.0",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "fip": "cd frontend && npm install",
+    "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\" \"npm run start-electron\"",
+    "start-backend": "echo 'no backend implemented yet' # cd backend && uvicorn main:app --reload --host localhost --port 8000",
+    "start-frontend": "cd frontend && npm run dev",
+    "start-electron": "electron ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "concurrently": "^9.2.1",
+    "cross-env": "^10.0.0",
+    "electron": "^38.1.2",
+    "electron-builder": "^26.0.12",
+    "eslint": "^9.35.0"
+  },
+  "build": {
+    "appId": "com.softwaresanctuary.finalchemist",
+    "productName": "FinAlchemist",
+    "directories": {
+      "output": "release-builds"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*"
+    ],
+    "mac": {
+      "target": "dmg"
+    },
+    "win": {
+      "target": "nsis"
+    }
+  }
+}

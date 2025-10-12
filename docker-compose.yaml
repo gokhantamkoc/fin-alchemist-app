@@ -1,0 +1,51 @@
+version: '3'
+services:
+  mongodb:
+    image: mongodb/mongodb-community-server:6.0-ubi8
+    container_name: fin_alchemist_app_mongodb
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=Tardis92.!
+    ports:
+      - "27017:27017"
+    volumes:
+      - faa_mongo_db_data:/data/db
+    depends_on:
+      - n8n
+  
+  n8n-db:
+    image: postgres:13
+    container_name: fin_alchemist_app_n8n_db
+    environment:
+      - POSTGRES_USER=n8n
+      - POSTGRES_PASSWORD=n8n
+      - POSTGRES_DB=n8n
+    ports:
+      - "5432:5432"
+    volumes:
+      - faa_n8n_db:/var/lib/postgresql/data/
+  
+  n8n:
+    image: n8nio/n8n:stable
+    container_name: fin_alchemist_app_n8n
+    environment:
+      - DB_TYPE=postgresdb
+      - DB_POSTGRESDB_HOST=fin_alchemist_app_n8n_db
+      - DB_POSTGRESDB_PORT=5432
+      - DB_POSTGRESDB_SCHEMA=public
+      - DB_POSTGRESDB_USER=n8n
+      - DB_POSTGRESDB_PASSWORD=n8n
+      - DB_POSTGRESDB_DATABASE=n8n
+      - NODE_FUNCTION_ALLOW_EXTERNAL=uuid
+    ports: 
+      - "5678:5678"
+    volumes:
+      - faa_n8n:/home/node/.n8n
+    depends_on:
+      - n8n-db
+    
+
+volumes:
+  faa_mongo_db_data:
+  faa_n8n_db:
+  faa_n8n:

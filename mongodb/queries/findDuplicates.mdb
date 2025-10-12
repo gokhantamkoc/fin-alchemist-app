@@ -1,0 +1,4 @@
+db.exchanges.aggregate([
+  { $group: { _id: "$name", count: { $sum: 1 } } },
+  { $match: { count: { $gt: 1 } } }
+])

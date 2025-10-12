@@ -1,0 +1,10 @@
+db.exchanges.aggregate([
+  {
+    $lookup: {
+      localField: "exchangeId",             // The field from the stocks collection.
+      from: "stocks",               // The collection to join.
+      foreignField: "exchangeId",   // The field from the exchanges collection.
+      as: "stocks"                  // The output array containing joined documents.
+    }
+  }
+]);
