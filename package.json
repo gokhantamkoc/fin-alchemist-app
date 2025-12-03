@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "electron/main.cjs",
   "scripts": {
+    "initialize-data": "cd data-initializer && pnpm run initialize",
     "fip": "cd frontend && npm install",
     "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\" \"npm run start-electron\"",
     "start-backend": "echo 'no backend implemented yet' # cd backend && uvicorn main:app --reload --host localhost --port 8000",
