@@ -1,0 +1,1937 @@
+﻿No.,Symbol,Market Cap,Company Name,Exchange,Sector
+1,TSM,1476499446212,Taiwan Semiconductor Manufacturing Company Limited,NYSE,Technology
+2,BRK.A,1086806556672,Berkshire Hathaway Inc.,NYSE,Financials
+3,BRK.B,1087383011328,Berkshire Hathaway Inc.,NYSE,Financials
+4,LLY,997043179911,Eli Lilly and Company,NYSE,Healthcare
+5,WMT,853095070054,Walmart Inc.,NYSE,Consumer Staples
+6,JPM,824845475385,JPMorgan Chase & Co.,NYSE,Financials
+7,V,649131657838,Visa Inc.,NYSE,Financials
+8,ORCL,552729166717,Oracle Corporation,NYSE,Technology
+9,JNJ,497929018730,Johnson & Johnson,NYSE,Healthcare
+10,MA,490707778232,Mastercard Incorporated,NYSE,Financials
+11,XOM,482888670000,Exxon Mobil Corporation,NYSE,Energy
+12,ABBV,409640951828,AbbVie Inc.,NYSE,Healthcare
+13,BAC,383235423932,Bank of America Corporation,NYSE,Financials
+14,BABA,364460609301,Alibaba Group Holding Limited,NYSE,Consumer Discretionary
+15,HD,349450390162,"The Home Depot, Inc.",NYSE,Consumer Discretionary
+16,PG,346981564691,The Procter & Gamble Company,NYSE,Consumer Staples
+17,KO,312488536876,The Coca-Cola Company,NYSE,Consumer Staples
+18,GE,309524594044,General Electric Company,NYSE,Industrials
+19,CVX,296963989762,Chevron Corporation,NYSE,Energy
+20,UNH,295557024934,UnitedHealth Group Incorporated,NYSE,Healthcare
+21,IBM,284608175523,International Business Machines Corporation,NYSE,Technology
+22,SAP,277162836109,SAP SE,NYSE,Technology
+23,WFC,276709736532,Wells Fargo & Company,NYSE,Financials
+24,CAT,265444842561,Caterpillar Inc.,NYSE,Industrials
+25,MS,262919628405,Morgan Stanley,NYSE,Financials
+26,MRK,265545212194,"Merck & Co., Inc.",NYSE,Healthcare
+27,TM,261006557997,Toyota Motor Corporation,NYSE,Consumer Discretionary
+28,GS,251703848051,"The Goldman Sachs Group, Inc.",NYSE,Financials
+29,AXP,253031868526,American Express Company,NYSE,Financials
+30,NVS,254886200551,Novartis AG,NYSE,Healthcare
+31,PM,245021570416,Philip Morris International Inc.,NYSE,Consumer Staples
+32,HSBC,238878173671,HSBC Holdings plc,NYSE,Financials
+33,RTX,230458870207,RTX Corporation,NYSE,Industrials
+34,TMO,226559429992,Thermo Fisher Scientific Inc.,NYSE,Healthcare
+35,CRM,224171815804,"Salesforce, Inc.",NYSE,Technology
+36,ABT,222878872800,Abbott Laboratories,NYSE,Healthcare
+37,MCD,221832053399,McDonald's Corporation,NYSE,Consumer Discretionary
+38,RY,214676867608,Royal Bank of Canada,NYSE,Financials
+39,SHEL,211520602675,Shell plc,NYSE,Energy
+40,NVO,209184051729,Novo Nordisk A/S,NYSE,Healthcare
+41,DIS,186371298990,The Walt Disney Company,NYSE,Communication Services
+42,T,183333163941,AT&T Inc.,NYSE,Communication Services
+43,C,188246011650,Citigroup Inc.,NYSE,Financials
+44,MUFG,178153182875,"Mitsubishi UFJ Financial Group, Inc.",NYSE,Financials
+45,NEE,174633582900,"NextEra Energy, Inc.",NYSE,Utilities
+46,BX,172128502937,Blackstone Inc.,NYSE,Financials
+47,UBER,173893624586,"Uber Technologies, Inc.",NYSE,Technology
+48,NOW,171305083905,"ServiceNow, Inc.",NYSE,Technology
+49,VZ,171144710599,Verizon Communications Inc.,NYSE,Communication Services
+50,HDB,61826795976,HDFC Bank Limited,NYSE,Financials
+51,TJX,169600926600,"The TJX Companies, Inc.",NYSE,Consumer Discretionary
+52,APH,168687089557,Amphenol Corporation,NYSE,Technology
+53,BLK,159568045362,"BlackRock, Inc.",NYSE,Financials
+54,SONY,170946407575,Sony Group Corporation,NYSE,Technology
+55,DHR,165352569558,Danaher Corporation,NYSE,Healthcare
+56,SCHW,165056477041,The Charles Schwab Corporation,NYSE,Financials
+57,ANET,157386948337,Arista Networks Inc,NYSE,Technology
+58,GEV,155347242005,GE Vernova Inc.,NYSE,Industrials
+59,ACN,155741873286,Accenture plc,NYSE,Technology
+60,SAN,155537799859,"Banco Santander, S.A.",NYSE,Financials
+61,BSX,150260325073,Boston Scientific Corporation,NYSE,Healthcare
+62,SPGI,149640732000,S&P Global Inc.,NYSE,Financials
+63,UL,148994588832,Unilever PLC,NYSE,Consumer Staples
+64,PFE,146236398237,Pfizer Inc.,NYSE,Healthcare
+65,SYK,143433134667,Stryker Corporation,NYSE,Healthcare
+66,TD,143119772717,The Toronto-Dominion Bank,NYSE,Financials
+67,WELL,140415854317,Welltower Inc.,NYSE,Real Estate
+68,TTE,145200592210,TotalEnergies SE,NYSE,Energy
+69,BA,137299238964,The Boeing Company,NYSE,Industrials
+70,COF,136333071592,Capital One Financial Corporation,NYSE,Financials
+71,UNP,135902320878,Union Pacific Corporation,NYSE,Industrials
+72,MDT,135131391500,Medtronic plc,NYSE,Healthcare
+73,DE,134660954376,Deere & Company,NYSE,Industrials
+74,BHP,68078778360,BHP Group Limited,NYSE,Materials
+75,LOW,133532409881,"Lowe's Companies, Inc.",NYSE,Consumer Discretionary
+76,PGR,132747509416,The Progressive Corporation,NYSE,Financials
+77,ETN,130754860000,Eaton Corporation plc,NYSE,Industrials
+78,BTI,124321699907,British American Tobacco p.l.c.,NYSE,Consumer Staples
+79,BUD,122150626700,Anheuser-Busch InBev SA/NV,NYSE,Consumer Staples
+80,BBVA,127575991457,"Banco Bilbao Vizcaya Argentaria, S.A.",NYSE,Financials
+81,PLD,118189244511,"Prologis, Inc.",NYSE,Real Estate
+82,RIO,115394522196,Rio Tinto Group,NYSE,Materials
+83,SPOT,119845984756,Spotify Technology S.A.,NYSE,Communication Services
+84,UBS,119575897559,UBS Group AG,NYSE,Financials
+85,HCA,125215558528,"HCA Healthcare, Inc.",NYSE,Healthcare
+86,CB,119146880127,Chubb Limited,NYSE,Financials
+87,SMFG,66932894279,"Sumitomo Mitsui Financial Group, Inc.",NYSE,Financials
+88,MCK,111159995554,McKesson Corporation,NYSE,Healthcare
+89,IBN,109385911314,ICICI Bank Limited,NYSE,Financials
+90,KKR,107684356534,KKR & Co. Inc.,NYSE,Financials
+91,PH,108847831383,Parker-Hannifin Corporation,NYSE,Industrials
+92,COP,107916192761,ConocoPhillips,NYSE,Energy
+93,SCCO,105535986672,Southern Copper Corporation,NYSE,Materials
+94,LMT,105875171531,Lockheed Martin Corporation,NYSE,Industrials
+95,ENB,103674999963,Enbridge Inc.,NYSE,Energy
+96,BN,103336855828,Brookfield Corporation,NYSE,Financials
+97,BMY,99853685974,Bristol-Myers Squibb Company,NYSE,Healthcare
+98,CVS,99612367098,CVS Health Corporation,NYSE,Healthcare
+99,SO,98194888307,The Southern Company,NYSE,Utilities
+100,SOMN,54955901000,The Southern Company,NYSE,
+101,MO,97948007687,"Altria Group, Inc.",NYSE,Consumer Staples
+102,GSK,96680994325,GSK plc,NYSE,Healthcare
+103,DUK,94820233042,Duke Energy Corporation,NYSE,Utilities
+104,NEM,94143257371,Newmont Corporation,NYSE,Materials
+105,NKE,94131357304,"NIKE, Inc.",NYSE,Consumer Discretionary
+106,TT,92868729655,Trane Technologies plc,NYSE,Industrials
+107,GD,91993620731,General Dynamics Corporation,NYSE,Industrials
+108,MMM,91127326972,3M Company,NYSE,Industrials
+109,BP,91484072785,BP p.l.c.,NYSE,Energy
+110,MMC,89554273936,"Marsh & McLennan Companies, Inc.",NYSE,Financials
+111,ICE,89363536620,"Intercontinental Exchange, Inc.",NYSE,Financials
+112,BMO,89882574872,Bank of Montreal,NYSE,Financials
+113,WM,87111942438,"Waste Management, Inc.",NYSE,Industrials
+114,MCO,87312116378,Moody's Corporation,NYSE,Financials
+115,SNOW,83296455414,Snowflake Inc.,NYSE,Technology
+116,SHW,85131606314,The Sherwin-Williams Company,NYSE,Materials
+117,DELL,84663892296,Dell Technologies Inc.,NYSE,Technology
+118,BNS,84355421826,The Bank of Nova Scotia,NYSE,Financials
+119,AMT,84154036950,American Tower Corporation,NYSE,Real Estate
+120,MFG,86089960279,"Mizuho Financial Group, Inc.",NYSE,Financials
+121,AEM,83298203383,Agnico Eagle Mines Limited,NYSE,Materials
+122,BAM,82737838432,Brookfield Asset Management Ltd.,NYSE,Financials
+123,HWM,81981200000,Howmet Aerospace Inc.,NYSE,Industrials
+124,NOC,81268589275,Northrop Grumman Corporation,NYSE,Industrials
+125,SE,80686398440,Sea Limited,NYSE,Consumer Discretionary
+126,NU,80099462751,Nu Holdings Ltd.,NYSE,Financials
+127,UPS,80205796512,"United Parcel Service, Inc.",NYSE,Industrials
+128,PBR,81327909697,Petróleo Brasileiro S.A. - Petrobras,NYSE,Energy
+129,PBR.A,80803840000,Petróleo Brasileiro S.A. - Petrobras,NYSE,Energy
+130,CM,78948176863,Canadian Imperial Bank of Commerce,NYSE,Financials
+131,CRH,77934132873,CRH plc,NYSE,Materials
+132,ECL,77518710619,Ecolab Inc.,NYSE,Materials
+133,CVNA,76147874339,Carvana Co.,NYSE,Consumer Discretionary
+134,TDG,76173865270,TransDigm Group Incorporated,NYSE,Industrials
+135,BK,76101816522,The Bank of New York Mellon Corporation,NYSE,Financials
+136,USB,76027370217,U.S. Bancorp,NYSE,Financials
+137,APO,75814563982,"Apollo Global Management, Inc.",NYSE,Financials
+138,PNC,75525796078,"The PNC Financial Services Group, Inc.",NYSE,Financials
+139,AON,75877942969,Aon plc,NYSE,Financials
+140,ITUB,79660962815,Itaú Unibanco Holding S.A.,NYSE,Financials
+141,ELV,74732228834,"Elevance Health, Inc.",NYSE,Healthcare
+142,BCS,77257261769,Barclays PLC,NYSE,Financials
+143,ING,77983684758,ING Groep N.V.,NYSE,Financials
+144,CI,74314402011,The Cigna Group,NYSE,Healthcare
+145,EMR,73547889346,Emerson Electric Co.,NYSE,Industrials
+146,NGG,73500253560,National Grid plc,NYSE,Utilities
+147,RELX,74070173885,RELX PLC,NYSE,Industrials
+148,COR,72655735905,"Cencora, Inc.",NYSE,Healthcare
+149,RCL,72653462871,Royal Caribbean Cruises Ltd.,NYSE,Consumer Discretionary
+150,WMB,72503764134,"The Williams Companies, Inc.",NYSE,Energy
+151,ITW,72705109203,Illinois Tool Works Inc.,NYSE,Industrials
+152,INFY,71630955867,Infosys Limited,NYSE,Technology
+153,GLW,71118044848,Corning Incorporated,NYSE,Technology
+154,EPD,70438074507,Enterprise Products Partners L.P.,NYSE,Energy
+155,LYG,72514314923,Lloyds Banking Group plc,NYSE,Financials
+156,JCI,75025293218,Johnson Controls International plc,NYSE,Industrials
+157,SPG,60437921168,"Simon Property Group, Inc.",NYSE,Real Estate
+158,AMX,69613791204,"América Móvil, S.A.B. de C.V.",NYSE,Communication Services
+159,NET,69174669640,"Cloudflare, Inc.",NYSE,Technology
+160,CNQ,69242476680,Canadian Natural Resources Limited,NYSE,Energy
+161,RACE,68768061868,Ferrari N.V.,NYSE,Consumer Discretionary
+162,CMI,68140870439,Cummins Inc.,NYSE,Industrials
+163,GM,67894521176,General Motors Company,NYSE,Consumer Discretionary
+164,RSG,67904147054,"Republic Services, Inc.",NYSE,Industrials
+165,PWR,66797463870,"Quanta Services, Inc.",NYSE,Industrials
+166,HLT,66181264815,Hilton Worldwide Holdings Inc.,NYSE,Consumer Discretionary
+167,B,67355398487,Barrick Mining Corporation,NYSE,Materials
+168,DB,66953074283,Deutsche Bank Aktiengesellschaft,NYSE,Financials
+169,AZO,66284151178,"AutoZone, Inc.",NYSE,Consumer Discretionary
+170,TRV,66368761166,"The Travelers Companies, Inc.",NYSE,Financials
+171,TEL,65386501816,TE Connectivity plc,NYSE,Technology
+172,NSC,64861195510,Norfolk Southern Corporation,NYSE,Industrials
+173,VRT,64830934526,Vertiv Holdings Co,NYSE,Industrials
+174,FDX,64621122104,FedEx Corporation,NYSE,Industrials
+175,CP,66179782249,Canadian Pacific Kansas City Limited,NYSE,Industrials
+176,CL,64345585947,Colgate-Palmolive Company,NYSE,Consumer Staples
+177,AJG,64262883200,Arthur J. Gallagher & Co.,NYSE,Financials
+178,RBLX,61817262958,Roblox Corporation,NYSE,Communication Services
+179,NWG,32259103723,NatWest Group plc,NYSE,Financials
+180,MSI,61543737311,"Motorola Solutions, Inc.",NYSE,Technology
+181,SRE,60353460247,Sempra,NYSE,Utilities
+182,MFC,59496882496,Manulife Financial Corporation,NYSE,Financials
+183,TFC,60179785079,Truist Financial Corporation,NYSE,Financials
+184,KMI,58934928903,"Kinder Morgan, Inc.",NYSE,Energy
+185,FCX,58973672206,Freeport-McMoRan Inc.,NYSE,Materials
+186,AFL,60391898764,Aflac Incorporated,NYSE,Financials
+187,VST,57884946712,Vistra Corp.,NYSE,Utilities
+188,APD,57635228700,"Air Products and Chemicals, Inc.",NYSE,Materials
+189,EOG,57798139347,"EOG Resources, Inc.",NYSE,Energy
+190,MPC,57114471010,Marathon Petroleum Corporation,NYSE,Energy
+191,CNI,58053351970,Canadian National Railway Company,NYSE,Industrials
+192,ZTS,56360255138,Zoetis Inc.,NYSE,Healthcare
+193,EQNR,57086221123,Equinor ASA,NYSE,Energy
+194,BDX,56032803915,"Becton, Dickinson and Company",NYSE,Healthcare
+195,ET,55858772400,Energy Transfer LP,NYSE,Energy
+196,TRP,55801906682,TC Energy Corporation,NYSE,Energy
+197,ALL,56235220624,The Allstate Corporation,NYSE,Financials
+198,RKT,55520118857,"Rocket Companies, Inc.",NYSE,Financials
+199,DLR,54056487359,"Digital Realty Trust, Inc.",NYSE,Real Estate
+200,E,55883539899,Eni S.p.A.,NYSE,Energy
+201,MPLX,54476278556,MPLX LP,NYSE,Energy
+202,PSX,54043811838,Phillips 66,NYSE,Energy
+203,SLB,53631858497,SLB N.V.,NYSE,Energy
+204,SU,53228126901,Suncor Energy Inc.,NYSE,Energy
+205,VLO,54362755642,Valero Energy Corporation,NYSE,Energy
+206,D,52549823067,"Dominion Energy, Inc.",NYSE,Utilities
+207,F,51542724273,Ford Motor Company,NYSE,Consumer Discretionary
+208,O,52177054991,Realty Income Corporation,NYSE,Real Estate
+209,VALE,52036429919,Vale S.A.,NYSE,Materials
+210,LHX,51697499802,"L3Harris Technologies, Inc.",NYSE,Industrials
+211,URI,52643462490,"United Rentals, Inc.",NYSE,Industrials
+212,DEO,50656380299,Diageo plc,NYSE,Consumer Staples
+213,CAH,50781742956,"Cardinal Health, Inc.",NYSE,Healthcare
+214,CPNG,50701628427,"Coupang, Inc.",NYSE,Consumer Discretionary
+215,EW,50976102280,Edwards Lifesciences Corporation,NYSE,Healthcare
+216,ARES,33150217674,Ares Management Corporation,NYSE,Financials
+217,MET,49905008745,"MetLife, Inc.",NYSE,Financials
+218,FERG,48647264104,Ferguson Enterprises Inc.,NYSE,Industrials
+219,PSA,47783842603,Public Storage,NYSE,Real Estate
+220,CBRE,48272560043,"CBRE Group, Inc.",NYSE,Real Estate
+221,WPM,46535240465,Wheaton Precious Metals Corp.,NYSE,Materials
+222,LVS,45727643811,Las Vegas Sands Corp.,NYSE,Consumer Discretionary
+223,CARR,45437217685,Carrier Global Corporation,NYSE,Industrials
+224,AME,45527222303,"AMETEK, Inc.",NYSE,Industrials
+225,WCN,45517407971,"Waste Connections, Inc.",NYSE,Industrials
+226,DHI,45132186330,"D.R. Horton, Inc.",NYSE,Consumer Discretionary
+227,TAK,45717957860,Takeda Pharmaceutical Company Limited,NYSE,Healthcare
+228,GWW,44781463144,"W.W. Grainger, Inc.",NYSE,Industrials
+229,CTVA,44632098600,"Corteva, Inc.",NYSE,Materials
+230,OKE,44611613926,"ONEOK, Inc.",NYSE,Energy
+231,A,44566265710,"Agilent Technologies, Inc.",NYSE,Healthcare
+232,CMG,45055981499,"Chipotle Mexican Grill, Inc.",NYSE,Consumer Discretionary
+233,LNG,45556671895,"Cheniere Energy, Inc.",NYSE,Energy
+234,HLN,44492836388,Haleon plc,NYSE,Healthcare
+235,ROK,43936756200,"Rockwell Automation, Inc.",NYSE,Industrials
+236,KR,43836163724,The Kroger Co.,NYSE,Consumer Staples
+237,HEI,43697248295,HEICO Corporation,NYSE,Industrials
+238,ETR,42543901244,Entergy Corporation,NYSE,Utilities
+239,FICO,43872561040,Fair Isaac Corporation,NYSE,Technology
+240,YUM,42755047720,"Yum! Brands, Inc.",NYSE,Consumer Discretionary
+241,AU,42589837161,AngloGold Ashanti plc,NYSE,Materials
+242,MSCI,43562247022,MSCI Inc.,NYSE,Financials
+243,AMP,42069708957,"Ameriprise Financial, Inc.",NYSE,Financials
+244,RDDT,41401141137,"Reddit, Inc.",NYSE,Communication Services
+245,PEG,41010490668,Public Service Enterprise Group Incorporated,NYSE,Utilities
+246,OXY,40797564072,Occidental Petroleum Corporation,NYSE,Energy
+247,AIG,40473599811,"American International Group, Inc.",NYSE,Financials
+248,DAL,40581636031,"Delta Air Lines, Inc.",NYSE,Industrials
+249,ABEV,39280459068,Ambev S.A.,NYSE,Consumer Staples
+250,IQV,39494493799,IQVIA Holdings Inc.,NYSE,Healthcare
+251,VEEV,39443426107,Veeva Systems Inc.,NYSE,Healthcare
+252,TGT,39341878234,Target Corporation,NYSE,Consumer Staples
+253,CCI,38931823494,Crown Castle Inc.,NYSE,Real Estate
+254,XYZ,38701298877,"Block, Inc.",NYSE,Technology
+255,FNV,38697207773,Franco-Nevada Corporation,NYSE,Materials
+256,VMC,38677358512,Vulcan Materials Company,NYSE,Materials
+257,ALC,39396770604,Alcon Inc.,NYSE,Healthcare
+258,HMC,15033137835,"Honda Motor Co., Ltd.",NYSE,Consumer Discretionary
+259,HIG,38333920670,"The Hartford Insurance Group, Inc.",NYSE,Financials
+260,HEI.A,36627714048,HEICO Corporation,NYSE,Industrials
+261,CCJ,38032815251,Cameco Corporation,NYSE,Energy
+262,PRU,38288178758,"Prudential Financial, Inc.",NYSE,Financials
+263,HSY,37869785197,The Hershey Company,NYSE,Consumer Staples
+264,CLS,37703252533,Celestica Inc.,NYSE,Technology
+265,VTR,35146358618,"Ventas, Inc.",NYSE,Real Estate
+266,RMD,37486909078,ResMed Inc.,NYSE,Healthcare
+267,MLM,37265592874,"Martin Marietta Materials, Inc.",NYSE,Materials
+268,GRMN,37119658108,Garmin Ltd.,NYSE,Technology
+269,TRGP,36727588175,Targa Resources Corp.,NYSE,Energy
+270,TKO,15277734530,"TKO Group Holdings, Inc.",NYSE,Communication Services
+271,SYY,36803352918,Sysco Corporation,NYSE,Consumer Staples
+272,WEC,35567751048,"WEC Energy Group, Inc.",NYSE,Utilities
+273,GFI,36436427040,Gold Fields Limited,NYSE,Materials
+274,NUE,35760066563,Nucor Corporation,NYSE,Materials
+275,ED,35678484851,"Consolidated Edison, Inc.",NYSE,Utilities
+276,PUK,36868831648,Prudential plc,NYSE,Financials
+277,EQT,35422042920,EQT Corporation,NYSE,Energy
+278,WAB,35230856891,Westinghouse Air Brake Technologies Corporation,NYSE,Industrials
+279,PCG,34573130985,PG&E Corporation,NYSE,Utilities
+280,UI,34532155005,Ubiquiti Inc.,NYSE,Technology
+281,BBD,37476265525,Banco Bradesco S.A.,NYSE,Financials
+282,BBDO,32606468310,Banco Bradesco S.A.,NYSE,Financials
+283,OTIS,34929795879,Otis Worldwide Corporation,NYSE,Industrials
+284,XYL,34453307105,Xylem Inc.,NYSE,Industrials
+285,FLUT,34434573280,Flutter Entertainment plc,NYSE,Consumer Discretionary
+286,FIS,33996902657,"Fidelity National Information Services, Inc.",NYSE,Technology
+287,NOK,32597315755,Nokia Oyj,NYSE,Technology
+288,CCL,33635917136,Carnival Corporation & plc,NYSE,Consumer Discretionary
+289,FIX,33756667028,"Comfort Systems USA, Inc.",NYSE,Industrials
+290,CUK,30980492546,Carnival Corporation & plc,NYSE,Consumer Discretionary
+291,KEYS,33591022430,"Keysight Technologies, Inc.",NYSE,Technology
+292,LEN,33428052666,Lennar Corporation,NYSE,Consumer Discretionary
+293,SLF,33333612606,Sun Life Financial Inc.,NYSE,Financials
+294,LEN.B,29375817728,Lennar Corporation,NYSE,Consumer Discretionary
+295,EL,33144471226,The Estée Lauder Companies Inc.,NYSE,Consumer Staples
+296,CVE,31593706453,Cenovus Energy Inc.,NYSE,Energy
+297,QSR,23612303402,Restaurant Brands International Inc.,NYSE,Consumer Discretionary
+298,KVUE,32637571157,Kenvue Inc.,NYSE,Consumer Staples
+299,STT,32425382088,State Street Corporation,NYSE,Financials
+300,CHT,32395096793,"Chunghwa Telecom Co., Ltd.",NYSE,Communication Services
+301,MT,32134934674,ArcelorMittal S.A.,NYSE,Materials
+302,KGC,31962233544,Kinross Gold Corporation,NYSE,Materials
+303,IR,31395471987,Ingersoll Rand Inc.,NYSE,Industrials
+304,NRG,31392451424,"NRG Energy, Inc.",NYSE,Utilities
+305,WDS,30799237121,Woodside Energy Group Ltd,NYSE,Energy
+306,MTD,30765646739,Mettler-Toledo International Inc.,NYSE,Healthcare
+307,VICI,30728326916,VICI Properties Inc.,NYSE,Real Estate
+308,RJF,30614374000,"Raymond James Financial, Inc.",NYSE,Financials
+309,FMX,19348235060,"Fomento Económico Mexicano, S.A.B. de C.V.",NYSE,Consumer Staples
+310,STLA,30447151086,Stellantis N.V.,NYSE,Consumer Discretionary
+311,VIK,30106608790,Viking Holdings Ltd,NYSE,Consumer Discretionary
+312,LYV,30084998558,"Live Nation Entertainment, Inc.",NYSE,Communication Services
+313,KB,30442494430,KB Financial Group Inc.,NYSE,Financials
+314,IX,30282355134,ORIX Corporation,NYSE,Financials
+315,WRB,29611249878,W. R. Berkley Corporation,NYSE,Financials
+316,ROL,29661443913,"Rollins, Inc.",NYSE,Consumer Discretionary
+317,ASX,30714180914,"ASE Technology Holding Co., Ltd.",NYSE,Technology
+318,MTB,29444079824,M&T Bank Corporation,NYSE,Financials
+319,EXR,28095212165,Extra Space Storage Inc.,NYSE,Real Estate
+320,TME,28237590313,Tencent Music Entertainment Group,NYSE,Communication Services
+321,K,29048895195,Kellanova,NYSE,Consumer Staples
+322,WIT,28261830274,Wipro Limited,NYSE,Technology
+323,ADM,28688522829,Archer-Daniels-Midland Company,NYSE,Consumer Staples
+324,TEVA,28659531600,Teva Pharmaceutical Industries Limited,NYSE,Healthcare
+325,HUM,28610557416,Humana Inc.,NYSE,Healthcare
+326,AEE,28380326587,Ameren Corporation,NYSE,Utilities
+327,DTE,28259427443,DTE Energy Company,NYSE,Utilities
+328,HPE,28168015021,Hewlett Packard Enterprise Company,NYSE,Technology
+329,ATO,28017357096,Atmos Energy Corporation,NYSE,Utilities
+330,CIEN,27737057498,Ciena Corporation,NYSE,Technology
+331,SYF,29016157749,Synchrony Financial,NYSE,Financials
+332,BRO,27487787803,"Brown & Brown, Inc.",NYSE,Financials
+333,NTR,27778193254,Nutrien Ltd.,NYSE,Materials
+334,PSTG,27197680842,"Pure Storage, Inc.",NYSE,Technology
+335,EME,27110654897,"EMCOR Group, Inc.",NYSE,Industrials
+336,FE,27104067841,FirstEnergy Corp.,NYSE,Utilities
+337,PPL,26928738239,PPL Corporation,NYSE,Utilities
+338,BR,26730230072,"Broadridge Financial Solutions, Inc.",NYSE,Technology
+339,PHG,26484766125,Koninklijke Philips N.V.,NYSE,Healthcare
+340,EFX,26602293771,Equifax Inc.,NYSE,Industrials
+341,STE,26343885435,STERIS plc,NYSE,Healthcare
+342,AXIA,26094171147,Centrais Elétricas Brasileiras S.A. - Eletrobrás,NYSE,Utilities
+343,MKL,26185310228,Markel Group Inc.,NYSE,Financials
+344,FTS,26229714276,Fortis Inc.,NYSE,Utilities
+345,SHG,26347229440,"Shinhan Financial Group Co., Ltd.",NYSE,Financials
+346,VLTO,25787794993,Veralto Corporation,NYSE,Industrials
+347,CQP,25770961649,"Cheniere Energy Partners, L.P.",NYSE,Energy
+348,CNP,25729538639,"CenterPoint Energy, Inc.",NYSE,Utilities
+349,AVB,25814149681,"AvalonBay Communities, Inc.",NYSE,Real Estate
+350,DOV,25512506089,Dover Corporation,NYSE,Industrials
+351,AWK,25442161640,"American Water Works Company, Inc.",NYSE,Utilities
+352,IRM,25320195799,Iron Mountain Incorporated,NYSE,Real Estate
+353,GIS,25808489322,"General Mills, Inc.",NYSE,Consumer Staples
+354,ES,24305181929,Eversource Energy,NYSE,Utilities
+355,WAT,24559717830,Waters Corporation,NYSE,Healthcare
+356,PHM,24503405142,"PulteGroup, Inc.",NYSE,Consumer Discretionary
+357,LDOS,24484265438,"Leidos Holdings, Inc.",NYSE,Technology
+358,TEF,24029410602,"Telefónica, S.A.",NYSE,Communication Services
+359,EQR,23247005453,Equity Residential,NYSE,Real Estate
+360,COHR,23129534761,Coherent Corp.,NYSE,Technology
+361,TDY,23369856991,Teledyne Technologies Incorporated,NYSE,Technology
+362,CFG,23273910122,"Citizens Financial Group, Inc.",NYSE,Financials
+363,BSBR,46469986091,Banco Santander (Brasil) S.A.,NYSE,Financials
+364,STZ,23155620339,"Constellation Brands, Inc.",NYSE,Consumer Staples
+365,DG,22959259781,Dollar General Corporation,NYSE,Consumer Staples
+366,HUBB,22842677305,Hubbell Incorporated,NYSE,Industrials
+367,CMS,22336367173,CMS Energy Corporation,NYSE,Utilities
+368,HPQ,22731949016,HP Inc.,NYSE,Technology
+369,OWL,22588432142,Blue Owl Capital Inc.,NYSE,Financials
+370,KEP,22918114800,Korea Electric Power Corporation,NYSE,Utilities
+371,EIX,22510042776,Edison International,NYSE,Utilities
+372,DVN,22906756284,Devon Energy Corporation,NYSE,Energy
+373,LH,22368907000,Labcorp Holdings Inc.,NYSE,Healthcare
+374,PPG,22348615848,"PPG Industries, Inc.",NYSE,Materials
+375,L,22308900258,Loews Corporation,NYSE,Financials
+376,BE,21839735027,Bloom Energy Corporation,NYSE,Industrials
+377,RF,22921565609,Regions Financial Corporation,NYSE,Financials
+378,RL,22103731616,Ralph Lauren Corporation,NYSE,Consumer Discretionary
+379,PBA,22092843960,Pembina Pipeline Corporation,NYSE,Energy
+380,TPR,22701333204,"Tapestry, Inc.",NYSE,Consumer Discretionary
+381,NMR,21634189735,"Nomura Holdings, Inc.",NYSE,Financials
+382,AER,23400051577,AerCap Holdings N.V.,NYSE,Industrials
+383,JBL,21792680001,Jabil Inc.,NYSE,Technology
+384,TLK,21971999642,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,NYSE,Communication Services
+385,HAL,22118919059,Halliburton Company,NYSE,Energy
+386,WSM,21981865402,"Williams-Sonoma, Inc.",NYSE,Consumer Discretionary
+387,IOT,21176171633,Samsara Inc.,NYSE,Technology
+388,BCE,21272085990,BCE Inc.,NYSE,Communication Services
+389,DGX,21495050756,Quest Diagnostics Incorporated,NYSE,Healthcare
+390,NVR,21163350773,"NVR, Inc.",NYSE,Consumer Discretionary
+391,DRI,20984820632,"Darden Restaurants, Inc.",NYSE,Consumer Discretionary
+392,RCI,20772408215,Rogers Communications Inc.,NYSE,Communication Services
+393,VIV,20672020470,Telefônica Brasil S.A.,NYSE,Communication Services
+394,IP,20662139344,International Paper Company,NYSE,Consumer Discretionary
+395,TECK,20301574022,Teck Resources Limited,NYSE,Materials
+396,XPEV,20539159729,XPeng Inc.,NYSE,Consumer Discretionary
+397,NI,20296779413,NiSource Inc.,NYSE,Utilities
+398,CW,20909588142,Curtiss-Wright Corporation,NYSE,Industrials
+399,TS,21258690324,Tenaris S.A.,NYSE,Energy
+400,CPAY,20520585648,"Corpay, Inc.",NYSE,Technology
+401,BEKE,20300752848,KE Holdings Inc.,NYSE,Real Estate
+402,AS,20297314924,"Amer Sports, Inc.",NYSE,Consumer Discretionary
+403,TYL,20252721292,"Tyler Technologies, Inc.",NYSE,Technology
+404,CHD,20568574646,"Church & Dwight Co., Inc.",NYSE,Consumer Staples
+405,WST,20204587826,"West Pharmaceutical Services, Inc.",NYSE,Healthcare
+406,TSN,20398953373,"Tyson Foods, Inc.",NYSE,Consumer Staples
+407,KEY,20077201530,KeyCorp,NYSE,Financials
+408,TU,19708501594,TELUS Corporation,NYSE,Communication Services
+409,IHG,21049126220,InterContinental Hotels Group PLC,NYSE,Consumer Discretionary
+410,BAP,19979503623,Credicorp Ltd.,NYSE,Financials
+411,STM,20041692967,STMicroelectronics N.V.,NYSE,Technology
+412,EC,19777130151,Ecopetrol S.A.,NYSE,Energy
+413,TPL,19865689094,Texas Pacific Land Corporation,NYSE,Energy
+414,EXPD,20232731429,"Expeditors International of Washington, Inc.",NYSE,Industrials
+415,CTRA,19673995944,Coterra Energy Inc.,NYSE,Energy
+416,AMCR,19644143098,Amcor plc,NYSE,Consumer Discretionary
+417,TOST,19557890372,"Toast, Inc.",NYSE,Technology
+418,CNC,19493571121,Centene Corporation,NYSE,Healthcare
+419,TWLO,19703450052,Twilio Inc.,NYSE,Technology
+420,HUBS,19461756052,"HubSpot, Inc.",NYSE,Technology
+421,GIB,19861891631,CGI Inc.,NYSE,Technology
+422,ZBH,19237483544,"Zimmer Biomet Holdings, Inc.",NYSE,Healthcare
+423,THC,19199388777,Tenet Healthcare Corporation,NYSE,Healthcare
+424,SGI,18736357910,Somnigroup International Inc.,NYSE,Consumer Discretionary
+425,BG,18661274646,Bunge Global SA,NYSE,Consumer Staples
+426,BCH,18607346357,Banco de Chile,NYSE,Financials
+427,BEP,8017454890,Brookfield Renewable Partners L.P.,NYSE,Utilities
+428,GWRE,18120122180,"Guidewire Software, Inc.",NYSE,Technology
+429,KOF,18222619023,"Coca-Cola FEMSA, S.A.B. de C.V.",NYSE,Consumer Staples
+430,U,18219652346,Unity Software Inc.,NYSE,Technology
+431,FTI,18802618773,TechnipFMC plc,NYSE,Energy
+432,SW,18255633992,Smurfit Westrock Plc,NYSE,Consumer Discretionary
+433,RBA,18104970195,"RB Global, Inc.",NYSE,Industrials
+434,UMC,18133982006,United Microelectronics Corporation,NYSE,Technology
+435,MKC.V,18249545728,"McCormick & Company, Incorporated",NYSE,Consumer Staples
+436,MKC,18029645871,"McCormick & Company, Incorporated",NYSE,Consumer Staples
+437,PKG,18108784504,Packaging Corporation of America,NYSE,Consumer Discretionary
+438,GPC,17926228740,Genuine Parts Company,NYSE,Consumer Discretionary
+439,SBS,17730249400,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,NYSE,Utilities
+440,ULS,17819858114,UL Solutions Inc.,NYSE,Industrials
+441,LUV,17769448549,Southwest Airlines Co.,NYSE,Industrials
+442,IFF,17721869427,International Flavors & Fragrances Inc.,NYSE,Materials
+443,SNA,17785674386,Snap-on Incorporated,NYSE,Industrials
+444,SQM,17646703778,Sociedad Química y Minera de Chile S.A.,NYSE,Materials
+445,FIG,17304862057,"Figma, Inc.",NYSE,Technology
+446,USFD,17598725043,US Foods Holding Corp.,NYSE,Consumer Staples
+447,GPN,18153564069,Global Payments Inc.,NYSE,Industrials
+448,ESS,16819754386,"Essex Property Trust, Inc.",NYSE,Real Estate
+449,PNR,17350948536,Pentair plc,NYSE,Industrials
+450,INVH,17189097316,Invitation Homes Inc.,NYSE,Real Estate
+451,YUMC,17327195947,"Yum China Holdings, Inc.",NYSE,Consumer Discretionary
+452,PINS,17258603665,"Pinterest, Inc.",NYSE,Communication Services
+453,GDDY,17639854131,GoDaddy Inc.,NYSE,Technology
+454,LII,16980838133,Lennox International Inc.,NYSE,Industrials
+455,IT,18059503431,"Gartner, Inc.",NYSE,Technology
+456,NVT,16931457582,nVent Electric plc,NYSE,Industrials
+457,FTV,18065794895,Fortive Corporation,NYSE,Technology
+458,VG,16870112505,"Venture Global, Inc.",NYSE,Energy
+459,BBY,16736666770,"Best Buy Co., Inc.",NYSE,Consumer Discretionary
+460,BIP,16511676036,Brookfield Infrastructure Partners L.P.,NYSE,Utilities
+461,IONQ,13971122916,"IonQ, Inc.",NYSE,Technology
+462,PAAS,14477590296,Pan American Silver Corp.,NYSE,Materials
+463,DKS,16558602896,"DICK'S Sporting Goods, Inc.",NYSE,Consumer Discretionary
+464,TRU,16581733468,TransUnion,NYSE,Financials
+465,CRCL,16510378544,"Circle Internet Group, Inc.",NYSE,Financials
+466,APTV,16504145412,Aptiv PLC,NYSE,Consumer Discretionary
+467,DOW,16430923031,Dow Inc.,NYSE,Materials
+468,XPO,16448783563,"XPO, Inc.",NYSE,Industrials
+469,Q,16340223764,"Qnity Electronics, Inc.",NYSE,Technology
+470,PKX,15801728010,POSCO Holdings Inc.,NYSE,Materials
+471,SUI,16174432338,"Sun Communities, Inc.",NYSE,Real Estate
+472,DD,16248371703,"DuPont de Nemours, Inc.",NYSE,Materials
+473,ZTO,16385172785,ZTO Express (Cayman) Inc.,NYSE,Industrials
+474,MAA,15813060075,"Mid-America Apartment Communities, Inc.",NYSE,Real Estate
+475,APG,16207853547,APi Group Corporation,NYSE,Industrials
+476,GFL,15681090792,GFL Environmental Inc.,NYSE,Industrials
+477,FNF,16078405081,"Fidelity National Financial, Inc.",NYSE,Financials
+478,CRS,16084004700,Carpenter Technology Corporation,NYSE,Industrials
+479,BWXT,16015262656,"BWX Technologies, Inc.",NYSE,Industrials
+480,MTZ,16243334459,"MasTec, Inc.",NYSE,Industrials
+481,WY,15967877685,Weyerhaeuser Company,NYSE,Real Estate
+482,WES,14861101593,"Western Midstream Partners, LP",NYSE,Energy
+483,J,15962900070,Jacobs Solutions Inc.,NYSE,Industrials
+484,H,15802408960,Hyatt Hotels Corporation,NYSE,Consumer Discretionary
+485,JLL,15688046818,Jones Lang LaSalle Incorporated,NYSE,Real Estate
+486,BURL,15736691744,"Burlington Stores, Inc.",NYSE,Consumer Discretionary
+487,CRBG,16393099873,"Corebridge Financial, Inc.",NYSE,Financials
+488,FN,15394593006,Fabrinet,NYSE,Technology
+489,RYAN,7484335697,"Ryan Specialty Holdings, Inc.",NYSE,Financials
+490,NLY,13654376427,"Annaly Capital Management, Inc.",NYSE,Real Estate
+491,UHS,15714945895,"Universal Health Services, Inc.",NYSE,Healthcare
+492,PFGC,15146484409,Performance Food Group Company,NYSE,Consumer Staples
+493,CIB,14435558139,Grupo Cibest S.A.,NYSE,Financials
+494,LYB,15131248038,LyondellBasell Industries N.V.,NYSE,Materials
+495,CX,15117678026,"CEMEX, S.A.B. de C.V.",NYSE,Materials
+496,SOLV,14876343085,Solventum Corporation,NYSE,Healthcare
+497,YPF,13867792795,YPF Sociedad Anónima,NYSE,Energy
+498,ALB,14742703924,Albemarle Corporation,NYSE,Materials
+499,WPC,14735204844,W. P. Carey Inc.,NYSE,Real Estate
+500,RS,14623617812,"Reliance, Inc.",NYSE,Materials
+501,TXT,14613323529,Textron Inc.,NYSE,Industrials
+502,AGI,14550123257,Alamos Gold Inc.,NYSE,Materials
+503,EMA,14553880000,Emera Incorporated,NYSE,Utilities
+504,ITT,14314560000,ITT Inc.,NYSE,Industrials
+505,W,14309260839,Wayfair Inc.,NYSE,Consumer Discretionary
+506,ALLE,14289047074,Allegion plc,NYSE,Industrials
+507,BNT,14187915442,Brookfield Wealth Solutions Ltd.,NYSE,Financials
+508,SNN,14613143578,Smith & Nephew plc,NYSE,Healthcare
+509,BEPC,6015629767,Brookfield Renewable Corporation,NYSE,Utilities
+510,OMC,14058853220,Omnicom Group Inc.,NYSE,Communication Services
+511,LTM,14073899803,LATAM Airlines Group S.A.,NYSE,Industrials
+512,KIM,14004372995,Kimco Realty Corporation,NYSE,Real Estate
+513,OHI,13446569500,"Omega Healthcare Investors, Inc.",NYSE,Real Estate
+514,RBC,14002288234,RBC Bearings Incorporated,NYSE,Industrials
+515,ONON,13690617401,On Holding AG,NYSE,Consumer Discretionary
+516,CHWY,13908545432,"Chewy, Inc.",NYSE,Consumer Discretionary
+517,FMS,14103007050,Fresenius Medical Care AG,NYSE,Healthcare
+518,MGA,13861782336,Magna International Inc.,NYSE,Consumer Discretionary
+519,BSAC,13916746464,Banco Santander-Chile,NYSE,Financials
+520,RPM,13746328650,RPM International Inc.,NYSE,Materials
+521,GGG,13737545860,Graco Inc.,NYSE,Industrials
+522,ACM,13750944948,AECOM,NYSE,Industrials
+523,CACI,13643759803,CACI International Inc,NYSE,Technology
+524,BF.A,13232347136,Brown-Forman Corporation,NYSE,Consumer Staples
+525,BF.B,13463668736,Brown-Forman Corporation,NYSE,Consumer Staples
+526,NIO,12345388825,NIO Inc.,NYSE,Consumer Discretionary
+527,RBRK,13603036898,"Rubrik, Inc.",NYSE,Technology
+528,RTO,13791493113,Rentokil Initial plc,NYSE,Industrials
+529,AMH,11887485994,American Homes 4 Rent,NYSE,Real Estate
+530,ATI,13489902901,ATI Inc.,NYSE,Industrials
+531,DT,13449391769,"Dynatrace, Inc.",NYSE,Technology
+532,OKLO,13401311623,Oklo Inc.,NYSE,Utilities
+533,EQH,14242737252,"Equitable Holdings, Inc.",NYSE,Financials
+534,TOL,13334588050,"Toll Brothers, Inc.",NYSE,Consumer Discretionary
+535,BALL,13233208529,Ball Corporation,NYSE,Consumer Discretionary
+536,CSL,13807424305,Carlisle Companies Incorporated,NYSE,Industrials
+537,EG,13173965752,"Everest Group, Ltd.",NYSE,Financials
+538,AVY,13178091723,Avery Dennison Corporation,NYSE,Consumer Discretionary
+539,SN,13134980994,"SharkNinja, Inc.",NYSE,Consumer Discretionary
+540,MAS,13157584503,Masco Corporation,NYSE,Industrials
+541,SNAP,12891007182,Snap Inc.,NYSE,Communication Services
+542,UDR,11924045465,"UDR, Inc.",NYSE,Real Estate
+543,CLX,13036043104,The Clorox Company,NYSE,Consumer Staples
+544,WSO.B,14256284672,"Watsco, Inc.",NYSE,Industrials
+545,IEX,13106303384,IDEX Corporation,NYSE,Industrials
+546,WSO,13921235914,"Watsco, Inc.",NYSE,Industrials
+547,WF,13212402750,Woori Financial Group Inc.,NYSE,Financials
+548,DOC,12585541295,"Healthpeak Properties, Inc.",NYSE,Real Estate
+549,BXP,11477723163,"BXP, Inc.",NYSE,Real Estate
+550,UNM,12809208642,Unum Group,NYSE,Financials
+551,JOBY,12707381596,"Joby Aviation, Inc.",NYSE,Industrials
+552,WCC,12654674435,"WESCO International, Inc.",NYSE,Industrials
+553,CNA,12648249470,CNA Financial Corporation,NYSE,Financials
+554,HRL,12635373526,Hormel Foods Corporation,NYSE,Consumer Staples
+555,ELS,12215070810,"Equity LifeStyle Properties, Inc.",NYSE,Real Estate
+556,ALLY,12550087164,Ally Financial Inc.,NYSE,Financials
+557,BLD,12554203760,TopBuild Corp.,NYSE,Industrials
+558,RGA,12498693854,"Reinsurance Group of America, Incorporated",NYSE,Financials
+559,DECK,12811760949,Deckers Outdoor Corporation,NYSE,Consumer Discretionary
+560,EVR,12132366227,Evercore Inc.,NYSE,Financials
+561,SNX,12616353674,TD SYNNEX Corporation,NYSE,Technology
+562,HII,12350114411,"Huntington Ingalls Industries, Inc.",NYSE,Industrials
+563,HLI,12305471241,"Houlihan Lokey, Inc.",NYSE,Financials
+564,SF,12279478556,Stifel Financial Corp.,NYSE,Financials
+565,GMED,12202840238,"Globus Medical, Inc.",NYSE,Healthcare
+566,MLI,12192627093,"Mueller Industries, Inc.",NYSE,Industrials
+567,AEG,12305663402,Aegon Ltd.,NYSE,Financials
+568,CF,12923962693,"CF Industries Holdings, Inc.",NYSE,Materials
+569,CNH,12145056894,CNH Industrial N.V.,NYSE,Industrials
+570,RNR,12067783051,RenaissanceRe Holdings Ltd.,NYSE,Financials
+571,BLDR,12049965912,"Builders FirstSource, Inc.",NYSE,Industrials
+572,RVTY,12522964868,"Revvity, Inc.",NYSE,Healthcare
+573,CLH,12019982045,"Clean Harbors, Inc.",NYSE,Industrials
+574,QXO,11928985796,"QXO, Inc.",NYSE,Industrials
+575,PAC,11911022722,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",NYSE,Industrials
+576,DTM,11925705390,"DT Midstream, Inc.",NYSE,Energy
+577,WMS,11810722506,"Advanced Drainage Systems, Inc.",NYSE,Industrials
+578,BJ,11766894189,"BJ's Wholesale Club Holdings, Inc.",NYSE,Consumer Staples
+579,JEF,11727032610,Jefferies Financial Group Inc.,NYSE,Financials
+580,PR,9952187308,Permian Resources Corporation,NYSE,Energy
+581,PEN,11698069370,"Penumbra, Inc.",NYSE,Healthcare
+582,EHC,11691018512,Encompass Health Corporation,NYSE,Healthcare
+583,ELAN,11641511172,Elanco Animal Health Incorporated,NYSE,Healthcare
+584,BEN,11596805111,"Franklin Resources, Inc.",NYSE,Financials
+585,RDY,11553213361,Dr. Reddy's Laboratories Limited,NYSE,Healthcare
+586,PCOR,11055897009,"Procore Technologies, Inc.",NYSE,Technology
+587,YMM,571242061,Full Truck Alliance Co. Ltd.,NYSE,Technology
+588,AFG,11471945925,"American Financial Group, Inc.",NYSE,Financials
+589,CPT,11297056139,Camden Property Trust,NYSE,Real Estate
+590,AIZ,11427006869,"Assurant, Inc.",NYSE,Financials
+591,KLAR,11423282611,Klarna Group plc,NYSE,Financials
+592,HMY,11447376481,Harmony Gold Mining Company Limited,NYSE,Materials
+593,ORI,11447037000,Old Republic International Corporation,NYSE,Financials
+594,WTRG,11183192590,"Essential Utilities, Inc.",NYSE,Utilities
+595,JHX,11074442280,James Hardie Industries plc,NYSE,Materials
+596,TIMB,11147702630,TIM S.A.,NYSE,Communication Services
+597,AYI,11142508821,Acuity Inc.,NYSE,Industrials
+598,CCK,11290597886,"Crown Holdings, Inc.",NYSE,Consumer Discretionary
+599,DAY,11007595004,Dayforce Inc.,NYSE,Technology
+600,FHN,11515500964,First Horizon Corporation,NYSE,Financials
+601,SCI,10983209164,Service Corporation International,NYSE,Consumer Discretionary
+602,SUZ,10962510950,Suzano S.A.,NYSE,Materials
+603,SWK,10955013504,"Stanley Black & Decker, Inc.",NYSE,Industrials
+604,STN,10934462141,Stantec Inc.,NYSE,Industrials
+605,EMBJ,11192590340,Embraer S.A.,NYSE,Industrials
+606,IVZ,10786008124,Invesco Ltd.,NYSE,Financials
+607,GL,10776237146,Globe Life Inc.,NYSE,Financials
+608,SPXC,10123230890,"SPX Technologies, Inc.",NYSE,Industrials
+609,PAG,10747947345,"Penske Automotive Group, Inc.",NYSE,Consumer Discretionary
+610,PNW,10712290711,Pinnacle West Capital Corporation,NYSE,Utilities
+611,SJM,10709056361,The J. M. Smucker Company,NYSE,Consumer Staples
+612,CR,10512783323,Crane Company,NYSE,Industrials
+613,QGEN,10529246250,Qiagen N.V.,NYSE,Healthcare
+614,NYT,10491575004,The New York Times Company,NYSE,Communication Services
+615,DCI,10499372720,"Donaldson Company, Inc.",NYSE,Industrials
+616,AR,10488796000,Antero Resources Corporation,NYSE,Energy
+617,SUN,7568464959,Sunoco LP,NYSE,Energy
+618,FDS,10570569063,FactSet Research Systems Inc.,NYSE,Financials
+619,DDS,10407810594,"Dillard's, Inc.",NYSE,Consumer Discretionary
+620,MP,10316586415,MP Materials Corp.,NYSE,Materials
+621,EPAM,10264078424,"EPAM Systems, Inc.",NYSE,Technology
+622,CMA,10189941689,Comerica Incorporated,NYSE,Financials
+623,BROS,9922323306,Dutch Bros Inc.,NYSE,Consumer Discretionary
+624,AA,10151390054,Alcoa Corporation,NYSE,Materials
+625,BAH,10457143633,Booz Allen Hamilton Holding Corporation,NYSE,Industrials
+626,UHAL,9827556301,U-Haul Holding Company,NYSE,Industrials
+627,DY,10088766952,"Dycom Industries, Inc.",NYSE,Industrials
+628,HL,10038078077,Hecla Mining Company,NYSE,Materials
+629,ARMK,9977820468,Aramark,NYSE,Industrials
+630,REXR,10133420076,"Rexford Industrial Realty, Inc.",NYSE,Real Estate
+631,ACI,9889655166,"Albertsons Companies, Inc.",NYSE,Consumer Staples
+632,OVV,10110756003,Ovintiv Inc.,NYSE,Energy
+633,GAP,9869856212,"The Gap, Inc.",NYSE,Consumer Discretionary
+634,AES,9833122713,The AES Corporation,NYSE,Utilities
+635,RRX,9769240382,Regal Rexnord Corporation,NYSE,Industrials
+636,CDE,9678028672,"Coeur Mining, Inc.",NYSE,Materials
+637,DINO,9863106734,HF Sinclair Corporation,NYSE,Energy
+638,WBS,10007755337,Webster Financial Corporation,NYSE,Financials
+639,AIT,9752609530,"Applied Industrial Technologies, Inc.",NYSE,Industrials
+640,EGP,9654504105,"EastGroup Properties, Inc.",NYSE,Real Estate
+641,DOCS,9589384433,"Doximity, Inc.",NYSE,Healthcare
+642,BAX,9591173309,Baxter International Inc.,NYSE,Healthcare
+643,VIPS,9759069066,Vipshop Holdings Limited,NYSE,Consumer Discretionary
+644,GME,9427662633,GameStop Corp.,NYSE,Consumer Discretionary
+645,UHAL.B,8903264256,U-Haul Holding Company,NYSE,Industrials
+646,MGM,9337509862,MGM Resorts International,NYSE,Consumer Discretionary
+647,BWA,9417605319,BorgWarner Inc.,NYSE,Consumer Discretionary
+648,PLNT,9373639878,"Planet Fitness, Inc.",NYSE,Consumer Discretionary
+649,CNM,8951629116,"Core & Main, Inc.",NYSE,Industrials
+650,WTS,9265715254,"Watts Water Technologies, Inc.",NYSE,Industrials
+651,OGE,9035478219,OGE Energy Corp.,NYSE,Utilities
+652,TAP,9355756135,Molson Coors Beverage Company,NYSE,Consumer Staples
+653,TAP.A,9002220544,Molson Coors Beverage Company,NYSE,Consumer Staples
+654,GTLS,9165907117,"Chart Industries, Inc.",NYSE,Industrials
+655,ASR,9156282298,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",NYSE,Industrials
+656,UWMC,8670638542,UWM Holdings Corporation,NYSE,Financials
+657,AOS,9319154809,A. O. Smith Corporation,NYSE,Industrials
+658,IPG,9105807289,"The Interpublic Group of Companies, Inc.",NYSE,Communication Services
+659,ARE,9099239356,"Alexandria Real Estate Equities, Inc.",NYSE,Real Estate
+660,SSB,9039350821,SouthState Bank Corporation,NYSE,Financials
+661,PAYC,9211158725,"Paycom Software, Inc.",NYSE,Technology
+662,KNSL,8988627537,"Kinsale Capital Group, Inc.",NYSE,Financials
+663,OC,8981913238,Owens Corning,NYSE,Industrials
+664,PSN,8990560061,Parsons Corporation,NYSE,Technology
+665,BIO,8961267745,"Bio-Rad Laboratories, Inc.",NYSE,Healthcare
+666,RRC,8956173731,Range Resources Corporation,NYSE,Energy
+667,FLS,9211567456,Flowserve Corporation,NYSE,Industrials
+668,ALV,9088113281,"Autoliv, Inc.",NYSE,Consumer Discretionary
+669,BIO.B,6628170240,"Bio-Rad Laboratories, Inc.",NYSE,Healthcare
+670,WAL,8919849710,Western Alliance Bancorporation,NYSE,Financials
+671,CRL,8762742145,"Charles River Laboratories International, Inc.",NYSE,Healthcare
+672,AHR,8631090930,"American Healthcare REIT, Inc.",NYSE,Real Estate
+673,GNRC,8718104845,Generac Holdings Inc.,NYSE,Industrials
+674,ADC,8102317004,Agree Realty Corporation,NYSE,Real Estate
+675,KVYO,8604129879,"Klaviyo, Inc.",NYSE,Technology
+676,KRMN,8595665378,Karman Holdings Inc.,NYSE,Industrials
+677,DVA,8568722000,DaVita Inc.,NYSE,Healthcare
+678,FRT,8487078207,Federal Realty Investment Trust,NYSE,Real Estate
+679,GIL,8527049846,Gildan Activewear Inc.,NYSE,Consumer Discretionary
+680,CAG,8484686171,"Conagra Brands, Inc.",NYSE,Consumer Staples
+681,LEVI,8608150085,Levi Strauss & Co.,NYSE,Consumer Discretionary
+682,CUBE,8421366932,CubeSmart,NYSE,Real Estate
+683,HIMS,8132757347,"Hims & Hers Health, Inc.",NYSE,Healthcare
+684,SARO,8411927140,"StandardAero, Inc.",NYSE,Industrials
+685,AM,8435921982,Antero Midstream Corporation,NYSE,Energy
+686,IAG,8364862000,IAMGOLD Corporation,NYSE,Materials
+687,NCLH,8353974923,Norwegian Cruise Line Holdings Ltd.,NYSE,Consumer Discretionary
+688,CAE,8321120486,CAE Inc.,NYSE,Industrials
+689,UGI,8335492371,UGI Corporation,NYSE,Utilities
+690,PRI,8302324168,"Primerica, Inc.",NYSE,Financials
+691,AGCO,8292170654,AGCO Corporation,NYSE,Industrials
+692,SBSW,8420937610,Sibanye Stillwater Limited,NYSE,Materials
+693,CTRE,7173526336,"CareTrust REIT, Inc.",NYSE,Real Estate
+694,PSO,8632459938,Pearson plc,NYSE,Communication Services
+695,KT,8878463810,KT Corporation,NYSE,Communication Services
+696,LW,8223189845,"Lamb Weston Holdings, Inc.",NYSE,Consumer Staples
+697,LUMN,8205149920,"Lumen Technologies, Inc.",NYSE,Communication Services
+698,MOD,8200503620,Modine Manufacturing Company,NYSE,Consumer Discretionary
+699,AWI,8186133652,"Armstrong World Industries, Inc.",NYSE,Industrials
+700,ATR,8161884154,"AptarGroup, Inc.",NYSE,Healthcare
+701,AVTR,8079506079,"Avantor, Inc.",NYSE,Healthcare
+702,OSK,8257415571,Oshkosh Corporation,NYSE,Industrials
+703,WLK,8064533066,Westlake Corporation,NYSE,Materials
+704,EDU,8044864638,New Oriental Education & Technology Group Inc.,NYSE,Consumer Staples
+705,ZWS,8037324306,Zurn Elkay Water Solutions Corporation,NYSE,Industrials
+706,VMI,8016965087,"Valmont Industries, Inc.",NYSE,Industrials
+707,CFR,8040855563,"Cullen/Frost Bankers, Inc.",NYSE,Financials
+708,BRX,7986149261,Brixmor Property Group Inc.,NYSE,Real Estate
+709,CLF,6128571422,Cleveland-Cliffs Inc.,NYSE,Materials
+710,QBTS,7832382210,D-Wave Quantum Inc.,NYSE,Technology
+711,AN,8299427778,"AutoNation, Inc.",NYSE,Consumer Discretionary
+712,BIRK,7963046558,Birkenstock Holding plc,NYSE,Consumer Discretionary
+713,LNC,7789400441,Lincoln National Corporation,NYSE,Financials
+714,NNN,7786753415,"NNN REIT, Inc.",NYSE,Real Estate
+715,FR,7549393043,"First Industrial Realty Trust, Inc.",NYSE,Real Estate
+716,SKM,7717249643,"SK Telecom Co., Ltd.",NYSE,Communication Services
+717,VNO,7136757557,Vornado Realty Trust,NYSE,Real Estate
+718,AXS,7716100339,AXIS Capital Holdings Limited,NYSE,Financials
+719,LAD,8238863595,"Lithia Motors, Inc.",NYSE,Consumer Discretionary
+720,G,7807584390,Genpact Limited,NYSE,Technology
+721,MOS,7668173905,The Mosaic Company,NYSE,Materials
+722,MOH,7951260640,"Molina Healthcare, Inc.",NYSE,Healthcare
+723,AMG,7485468331,"Affiliated Managers Group, Inc.",NYSE,Financials
+724,JBTM,7415795071,JBT Marel Corporation,NYSE,Industrials
+725,STAG,7329940248,"STAG Industrial, Inc.",NYSE,Real Estate
+726,CADE,7315682008,Cadence Bank,NYSE,Financials
+727,KNX,7375941443,Knight-Swift Transportation Holdings Inc.,NYSE,Industrials
+728,CRK,7367397823,"Comstock Resources, Inc.",NYSE,Energy
+729,ELP,7713620471,Companhia Paranaense de Energia - COPEL,NYSE,Utilities
+730,ELPC,1835743644,Companhia Paranaense de Energia - COPEL,NYSE,Utilities
+731,ESTC,7389022630,Elastic N.V.,NYSE,Technology
+732,ALSN,7310810413,"Allison Transmission Holdings, Inc.",NYSE,Consumer Discretionary
+733,AMTM,7303621140,"Amentum Holdings, Inc.",NYSE,Industrials
+734,IBP,7332255251,"Installed Building Products, Inc.",NYSE,Consumer Discretionary
+735,NFG,7286956647,National Fuel Gas Company,NYSE,Energy
+736,MOG.A,6818850304,Moog Inc.,NYSE,Industrials
+737,PATH,7226815016,UiPath Inc.,NYSE,Technology
+738,OMF,7306531521,"OneMain Holdings, Inc.",NYSE,Financials
+739,NEU,7203798906,NewMarket Corporation,NYSE,Materials
+740,MOG.B,6810096128,Moog Inc.,NYSE,Industrials
+741,ICL,7150326919,ICL Group Ltd,NYSE,Materials
+742,AL,7136197293,Air Lease Corporation,NYSE,Industrials
+743,QS,7132578359,QuantumScape Corporation,NYSE,Consumer Discretionary
+744,MUSA,7447267147,Murphy USA Inc.,NYSE,Consumer Discretionary
+745,MHK,7139822303,"Mohawk Industries, Inc.",NYSE,Consumer Discretionary
+746,TFII,7188225916,TFI International Inc.,NYSE,Industrials
+747,TX,7039593333,Ternium S.A.,NYSE,Materials
+748,EXP,7202711813,Eagle Materials Inc.,NYSE,Materials
+749,BBU,2958228891,Brookfield Business Partners L.P.,NYSE,Industrials
+750,IDA,7000477865,"IDACORP, Inc.",NYSE,Utilities
+751,TTC,6984421146,The Toro Company,NYSE,Industrials
+752,R,6960106931,"Ryder System, Inc.",NYSE,Industrials
+753,PJT,4135532750,PJT Partners Inc.,NYSE,Financials
+754,CMC,6950204293,Commercial Metals Company,NYSE,Materials
+755,PFSI,6890599766,"PennyMac Financial Services, Inc.",NYSE,Financials
+756,CWEN.A,7054120960,"Clearway Energy, Inc.",NYSE,Utilities
+757,EMN,6978909932,Eastman Chemical Company,NYSE,Materials
+758,FND,6905913752,"Floor & Decor Holdings, Inc.",NYSE,Consumer Discretionary
+759,SSD,6892604469,"Simpson Manufacturing Co., Inc.",NYSE,Materials
+760,ORA,6881598655,"Ormat Technologies, Inc.",NYSE,Utilities
+761,ZK,6880801462,ZEEKR Intelligent Technology Holding Limited,NYSE,Consumer Discretionary
+762,INGR,6926403530,Ingredion Incorporated,NYSE,Consumer Staples
+763,HESM,6871186146,Hess Midstream LP,NYSE,Energy
+764,FSS,6789277622,Federal Signal Corporation,NYSE,Industrials
+765,ESAB,6772308257,ESAB Corporation,NYSE,Industrials
+766,SNV,6770032276,Synovus Financial Corp.,NYSE,Financials
+767,STWD,6761573936,"Starwood Property Trust, Inc.",NYSE,Real Estate
+768,FLR,6743876093,Fluor Corporation,NYSE,Industrials
+769,VOYA,6805685754,"Voya Financial, Inc.",NYSE,Financials
+770,VFC,6736094828,V.F. Corporation,NYSE,Consumer Discretionary
+771,TAL,6730250809,TAL Education Group,NYSE,Consumer Staples
+772,ONTO,6713901955,Onto Innovation Inc.,NYSE,Technology
+773,PRIM,6708116377,Primoris Services Corporation,NYSE,Industrials
+774,FAF,6704001000,First American Financial Corporation,NYSE,Financials
+775,EAT,6651797198,"Brinker International, Inc.",NYSE,Consumer Discretionary
+776,THG,6601537001,"The Hanover Insurance Group, Inc.",NYSE,Financials
+777,JXN,6600553493,Jackson Financial Inc.,NYSE,Financials
+778,PB,6591483222,"Prosperity Bancshares, Inc.",NYSE,Financials
+779,OBDC,6582301293,Blue Owl Capital Corporation,NYSE,Financials
+780,GGB,7061936492,Gerdau S.A.,NYSE,Materials
+781,ADT,6173696963,ADT Inc.,NYSE,Industrials
+782,TFPM,6523212359,Triple Flag Precious Metals Corp.,NYSE,Materials
+783,CIG,5892726499,Companhia Energética de Minas Gerais - CEMIG,NYSE,Utilities
+784,CIG.C,7337649664,Companhia Energética de Minas Gerais - CEMIG,NYSE,Utilities
+785,CWAN,6376848728,"Clearwater Analytics Holdings, Inc.",NYSE,Technology
+786,TRNO,6462788743,Terreno Realty Corporation,NYSE,Real Estate
+787,BYD,6462969850,Boyd Gaming Corporation,NYSE,Consumer Discretionary
+788,HR,6346897836,Healthcare Realty Trust Incorporated,NYSE,Real Estate
+789,DLB,6457980579,"Dolby Laboratories, Inc.",NYSE,Industrials
+790,JHG,6597687386,Janus Henderson Group plc,NYSE,Financials
+791,OTF,6420172638,Blue Owl Technology Finance Corp.,NYSE,Financials
+792,STVN,6381491438,Stevanato Group S.p.A.,NYSE,Healthcare
+793,SEE,6377782050,Sealed Air Corporation,NYSE,Consumer Discretionary
+794,MTG,6363193500,MGIC Investment Corporation,NYSE,Financials
+795,AXTA,6459399968,Axalta Coating Systems Ltd.,NYSE,Materials
+796,TXNM,6316349434,"TXNM Energy, Inc.",NYSE,Utilities
+797,LOAR,6314583473,Loar Holdings Inc.,NYSE,Industrials
+798,RITM,6027345871,Rithm Capital Corp.,NYSE,Real Estate
+799,OR,6293589625,OR Royalties Inc.,NYSE,Materials
+800,MSA,6304647043,MSA Safety Incorporated,NYSE,Industrials
+801,BXSL,6296975978,Blackstone Secured Lending Fund,NYSE,Financials
+802,ESI,6267251956,Element Solutions Inc,NYSE,Materials
+803,EPRT,6229664715,"Essential Properties Realty Trust, Inc.",NYSE,Real Estate
+804,HBM,6224943711,Hudbay Minerals Inc.,NYSE,Materials
+805,CHE,6440279625,Chemed Corporation,NYSE,Healthcare
+806,FOUR,6238813540,"Shift4 Payments, Inc.",NYSE,Technology
+807,BLSH,6102691430,Bullish,NYSE,Technology
+808,ESNT,6095885909,Essent Group Ltd.,NYSE,Financials
+809,AG,6081257842,First Majestic Silver Corp.,NYSE,Materials
+810,TMHC,6082406303,Taylor Morrison Home Corporation,NYSE,Consumer Discretionary
+811,KEX,6333524909,Kirby Corporation,NYSE,Industrials
+812,LTH,6072907035,"Life Time Group Holdings, Inc.",NYSE,Consumer Discretionary
+813,RHP,6055951593,"Ryman Hospitality Properties, Inc.",NYSE,Real Estate
+814,SITE,6019360743,"SiteOne Landscape Supply, Inc.",NYSE,Industrials
+815,GKOS,5990320274,Glaukos Corporation,NYSE,Healthcare
+816,FNB,5981105468,F.N.B. Corporation,NYSE,Financials
+817,MIR,5634111220,"Mirion Technologies, Inc.",NYSE,Industrials
+818,BOOT,5984882388,"Boot Barn Holdings, Inc.",NYSE,Consumer Discretionary
+819,FBIN,5956652860,"Fortune Brands Innovations, Inc.",NYSE,Industrials
+820,HXL,5946558863,Hexcel Corporation,NYSE,Industrials
+821,BVN,5938212974,Compañía de Minas Buenaventura S.A.A.,NYSE,Materials
+822,SWX,5910143765,"Southwest Gas Holdings, Inc.",NYSE,Utilities
+823,PIPR,5917875104,Piper Sandler Companies,NYSE,Financials
+824,BETA,4684879340,"BETA Technologies, Inc.",NYSE,Industrials
+825,SGHC,5915322842,Super Group (SGHC) Limited,NYSE,Consumer Discretionary
+826,COMP,5743008947,"Compass, Inc.",NYSE,Real Estate
+827,MNSO,5927973629,MINISO Group Holding Limited,NYSE,Consumer Discretionary
+828,RLI,5872111170,RLI Corp.,NYSE,Financials
+829,M,5867719459,"Macy's, Inc.",NYSE,Consumer Discretionary
+830,GTES,5814111923,Gates Industrial Corporation plc,NYSE,Industrials
+831,EGO,5931808788,Eldorado Gold Corporation,NYSE,Materials
+832,BFAM,5764543512,Bright Horizons Family Solutions Inc.,NYSE,Consumer Discretionary
+833,KD,5804135018,"Kyndryl Holdings, Inc.",NYSE,Technology
+834,PRMB,5732024463,Primo Brands Corporation,NYSE,Consumer Staples
+835,GATX,5687558146,GATX Corporation,NYSE,Industrials
+836,GXO,5684346478,"GXO Logistics, Inc.",NYSE,Industrials
+837,THO,5696073828,"THOR Industries, Inc.",NYSE,Consumer Discretionary
+838,SOBO,5680498741,South Bow Corporation,NYSE,Energy
+839,LPX,5667584856,Louisiana-Pacific Corporation,NYSE,Industrials
+840,POR,5493921347,Portland General Electric Company,NYSE,Utilities
+841,TKR,5657426857,The Timken Company,NYSE,Industrials
+842,CAVA,5630303980,"CAVA Group, Inc.",NYSE,Consumer Discretionary
+843,BLCO,5628075668,Bausch + Lomb Corporation,NYSE,Healthcare
+844,LEA,5829938235,Lear Corporation,NYSE,Consumer Discretionary
+845,GBCI,5618744357,"Glacier Bancorp, Inc.",NYSE,Financials
+846,ESE,5615061912,ESCO Technologies Inc.,NYSE,Technology
+847,SMR,5584872779,NuScale Power Corporation,NYSE,Industrials
+848,WH,5583288736,"Wyndham Hotels & Resorts, Inc.",NYSE,Consumer Discretionary
+849,HOMB,5582021676,"Home Bancshares, Inc. (Conway, AR)",NYSE,Financials
+850,DAR,5572895669,Darling Ingredients Inc.,NYSE,Consumer Staples
+851,LMND,5411486578,"Lemonade, Inc.",NYSE,Financials
+852,KMX,5720716102,"CarMax, Inc.",NYSE,Consumer Discretionary
+853,ARW,5502814048,"Arrow Electronics, Inc.",NYSE,Technology
+854,NOV,5482384689,NOV Inc.,NYSE,Energy
+855,S,5210674561,"SentinelOne, Inc.",NYSE,Technology
+856,BKH,5192331879,Black Hills Corporation,NYSE,Utilities
+857,NXE,5439402558,NexGen Energy Ltd.,NYSE,Energy
+858,RAL,5425587359,Ralliant Corporation,NYSE,Technology
+859,MSGS,5408697462,Madison Square Garden Sports Corp.,NYSE,Communication Services
+860,ACHR,4806664191,Archer Aviation Inc.,NYSE,Industrials
+861,KNTK,2030036860,Kinetik Holdings Inc.,NYSE,Energy
+862,BMI,5381182741,"Badger Meter, Inc.",NYSE,Technology
+863,FRO,5340723107,Frontline plc,NYSE,Energy
+864,BIPC,5332432691,Brookfield Infrastructure Corporation,NYSE,Utilities
+865,VIRT,5189853866,"Virtu Financial, Inc.",NYSE,Financials
+866,TEO,5035322030,Telecom Argentina S.A.,NYSE,Communication Services
+867,HRB,5606774190,"H&R Block, Inc.",NYSE,Consumer Discretionary
+868,POST,5667209373,"Post Holdings, Inc.",NYSE,Consumer Staples
+869,MRP,4890706520,"Millrose Properties, Inc.",NYSE,Real Estate
+870,WK,5215856863,Workiva Inc.,NYSE,Technology
+871,HHH,5245409587,Howard Hughes Holdings Inc.,NYSE,Real Estate
+872,ENS,5207878949,EnerSys,NYSE,Industrials
+873,ACA,5207600755,"Arcosa, Inc.",NYSE,Industrials
+874,BMA,4890869808,Banco Macro S.A.,NYSE,Financials
+875,ABCB,5234823393,Ameris Bancorp,NYSE,Financials
+876,VNT,5180070000,Vontier Corporation,NYSE,Technology
+877,ENIC,5215158413,Enel Chile S.A.,NYSE,Utilities
+878,KBR,5173557445,"KBR, Inc.",NYSE,Industrials
+879,AGX,5085165049,"Argan, Inc.",NYSE,Industrials
+880,MCY,5155019515,Mercury General Corporation,NYSE,Financials
+881,MTH,5227205612,Meritage Homes Corporation,NYSE,Consumer Discretionary
+882,SR,5141628129,Spire Inc.,NYSE,Utilities
+883,KRC,5090552874,Kilroy Realty Corporation,NYSE,Real Estate
+884,WEX,5130249111,WEX Inc.,NYSE,Technology
+885,MTDR,5128299381,Matador Resources Company,NYSE,Energy
+886,MAIN,5121719833,Main Street Capital Corporation,NYSE,Financials
+887,KRG,5055937779,Kite Realty Group Trust,NYSE,Real Estate
+888,TFX,5069098598,Teleflex Incorporated,NYSE,Healthcare
+889,INGM,5068166442,Ingram Micro Holding Corporation,NYSE,Technology
+890,GPI,5282370248,"Group 1 Automotive, Inc.",NYSE,Consumer Discretionary
+891,WTM,5115532841,"White Mountains Insurance Group, Ltd.",NYSE,Financials
+892,CNX,5419420839,CNX Resources Corporation,NYSE,Energy
+893,FLG,5043002025,"Flagstar Bank, National Association",NYSE,Financials
+894,MTN,5209147684,"Vail Resorts, Inc.",NYSE,Consumer Discretionary
+895,FCN,5590338440,"FTI Consulting, Inc.",NYSE,Industrials
+896,OGS,4978120432,"ONE Gas, Inc.",NYSE,Utilities
+897,PACS,4931541300,"PACS Group, Inc.",NYSE,Healthcare
+898,BILL,5079247287,"BILL Holdings, Inc.",NYSE,Technology
+899,CPA,4944339750,"Copa Holdings, S.A.",NYSE,Industrials
+900,GOLF,4936350835,Acushnet Holdings Corp.,NYSE,Consumer Discretionary
+901,MSM,4931608996,"MSC Industrial Direct Co., Inc.",NYSE,Industrials
+902,PAM,4671366045,Pampa Energía S.A.,NYSE,Utilities
+903,VIST,4941360845,"Vista Energy, S.A.B. de C.V.",NYSE,Energy
+904,AUB,4882671888,Atlantic Union Bankshares Corporation,NYSE,Financials
+905,NE,4844583736,Noble Corporation plc,NYSE,Energy
+906,NJR,4799577049,New Jersey Resources Corporation,NYSE,Utilities
+907,TKC,4892549926,Turkcell Iletisim Hizmetleri A.S.,NYSE,Communication Services
+908,RDN,4816636047,Radian Group Inc.,NYSE,Financials
+909,ALK,4785690172,"Alaska Air Group, Inc.",NYSE,Industrials
+910,AVAL,4855540179,Grupo Aval Acciones y Valores S.A.,NYSE,Financials
+911,SKY,4781469196,"Champion Homes, Inc.",NYSE,Consumer Discretionary
+912,PHI,4846172103,PLDT Inc.,NYSE,Communication Services
+913,LAZ,4776149157,"Lazard, Inc.",NYSE,Financials
+914,REZI,4715810806,"Resideo Technologies, Inc.",NYSE,Industrials
+915,YOU,3415672771,"Clear Secure, Inc.",NYSE,Technology
+916,WFG,4619089350,West Fraser Timber Co. Ltd.,NYSE,Materials
+917,GPK,4754433334,Graphic Packaging Holding Company,NYSE,Consumer Discretionary
+918,GHC,4750684092,Graham Holdings Company,NYSE,Consumer Staples
+919,MC,4743619094,Moelis & Company,NYSE,Financials
+920,ALH,4109114568,Alliance Laundry Holdings Inc.,NYSE,Industrials
+921,NPO,4733890621,Enpro Inc.,NYSE,Industrials
+922,MMS,4882131943,"Maximus, Inc.",NYSE,Industrials
+923,TGS,4393112758,Transportadora de Gas del Sur S.A.,NYSE,Energy
+924,AX,4680493885,"Axos Financial, Inc.",NYSE,Financials
+925,BCO,4678025552,The Brink's Company,NYSE,Industrials
+926,AQN,4669491060,Algonquin Power & Utilities Corp.,NYSE,Utilities
+927,NNI,4664467144,"Nelnet, Inc.",NYSE,Financials
+928,GVA,4610865749,Granite Construction Incorporated,NYSE,Industrials
+929,ST,4606361601,Sensata Technologies Holding plc,NYSE,Technology
+930,HGTY,4596797940,"Hagerty, Inc.",NYSE,Financials
+931,QTWO,4545306063,"Q2 Holdings, Inc.",NYSE,Technology
+932,ABG,4561428397,"Asbury Automotive Group, Inc.",NYSE,Consumer Discretionary
+933,HRI,4539319778,Herc Holdings Inc.,NYSE,Industrials
+934,MAC,4356568609,The Macerich Company,NYSE,Real Estate
+935,TDS,4235916880,"Telephone and Data Systems, Inc.",NYSE,Communication Services
+936,BGSI,3458436699,Boyd Group Services Inc.,NYSE,Consumer Discretionary
+937,CSW,4536369865,"CSW Industrials, Inc.",NYSE,Industrials
+938,FSK,4469860271,FS KKR Capital Corp.,NYSE,Financials
+939,BDC,4528159237,Belden Inc.,NYSE,Technology
+940,RIG,3658125313,Transocean Ltd.,NYSE,Energy
+941,ECG,4460524984,"Everus Construction Group, Inc.",NYSE,Industrials
+942,MUR,4446313900,Murphy Oil Corporation,NYSE,Energy
+943,NIQ,4430900000,NIQ Global Intelligence plc,NYSE,Technology
+944,IFS,4496200615,Intercorp Financial Services Inc.,NYSE,Financials
+945,OSCR,4273159870,"Oscar Health, Inc.",NYSE,Healthcare
+946,STUB,4083656382,"StubHub Holdings, Inc.",NYSE,Consumer Discretionary
+947,TNL,4389777113,Travel + Leisure Co.,NYSE,Consumer Discretionary
+948,UGP,4447423001,Ultrapar Participações S.A.,NYSE,Energy
+949,BC,4377612873,Brunswick Corporation,NYSE,Consumer Discretionary
+950,WHR,4335389195,Whirlpool Corporation,NYSE,Consumer Discretionary
+951,FG,4350903436,"F&G Annuities & Life, Inc.",NYSE,Financials
+952,BOX,4346346660,"Box, Inc.",NYSE,Technology
+953,ZETA,4333950504,Zeta Global Holdings Corp.,NYSE,Technology
+954,MGY,4208190896,Magnolia Oil & Gas Corporation,NYSE,Energy
+955,LB,4324698903,LandBridge Company LLC,NYSE,Energy
+956,MDU,4323647557,"MDU Resources Group, Inc.",NYSE,Utilities
+957,ASB,4385330195,Associated Banc-Corp,NYSE,Financials
+958,CE,4321063117,Celanese Corporation,NYSE,Materials
+959,WPP,4243852029,WPP plc,NYSE,Communication Services
+960,ELF,4096195426,"e.l.f. Beauty, Inc.",NYSE,Consumer Staples
+961,LPL,4270000000,"LG Display Co., Ltd.",NYSE,Technology
+962,PAY,4300429702,"Paymentus Holdings, Inc.",NYSE,Technology
+963,CUZ,4293198154,Cousins Properties Incorporated,NYSE,Real Estate
+964,HASI,4231217684,"HA Sustainable Infrastructure Capital, Inc.",NYSE,Financials
+965,ANF,4247580376,Abercrombie & Fitch Co.,NYSE,Consumer Discretionary
+966,CWEN,7368456088,"Clearway Energy, Inc.",NYSE,Utilities
+967,CHH,4264484475,"Choice Hotels International, Inc.",NYSE,Consumer Discretionary
+968,KNF,4228846634,Knife River Corporation,NYSE,Materials
+969,AROC,4208871408,"Archrock, Inc.",NYSE,Energy
+970,IRT,3938779391,"Independence Realty Trust, Inc.",NYSE,Real Estate
+971,SLGN,4218777370,Silgan Holdings Inc.,NYSE,Consumer Discretionary
+972,SPR,4158305379,"Spirit AeroSystems Holdings, Inc.",NYSE,Industrials
+973,RSI,5251778126,"Rush Street Interactive, Inc.",NYSE,Consumer Discretionary
+974,TAC,4153800000,TransAlta Corporation,NYSE,Utilities
+975,AGO,4152124005,Assured Guaranty Ltd.,NYSE,Financials
+976,SXT,4133493735,Sensient Technologies Corporation,NYSE,Materials
+977,KBH,4477187627,KB Home,NYSE,Consumer Discretionary
+978,DOCN,4107997176,"DigitalOcean Holdings, Inc.",NYSE,Technology
+979,SON,4100174350,Sonoco Products Company,NYSE,Consumer Discretionary
+980,SSL,4058954499,Sasol Limited,NYSE,Materials
+981,KTB,4095832274,"Kontoor Brands, Inc.",NYSE,Consumer Discretionary
+982,GPOR,3789334978,Gulfport Energy Corporation,NYSE,Energy
+983,SIG,4091610091,Signet Jewelers Limited,NYSE,Consumer Discretionary
+984,AD,4067221801,"Array Digital Infrastructure, Inc.",NYSE,Communication Services
+985,HCC,4067878671,"Warrior Met Coal, Inc.",NYSE,Materials
+986,GBTG,3647552795,"Global Business Travel Group, Inc.",NYSE,Consumer Discretionary
+987,PRM,4041398268,"Perimeter Solutions, Inc.",NYSE,Materials
+988,SKT,3768777778,Tanger Inc.,NYSE,Real Estate
+989,VVV,4019370735,Valvoline Inc.,NYSE,Consumer Discretionary
+990,PBF,3988286468,PBF Energy Inc.,NYSE,Energy
+991,FUBO,1065872601,fuboTV Inc.,NYSE,Communication Services
+992,CSAN,2188905689,Cosan S.A.,NYSE,Energy
+993,CNR,3994771670,"Core Natural Resources, Inc.",NYSE,Energy
+994,EPR,3968434573,EPR Properties,NYSE,Real Estate
+995,SFBS,3951343472,"ServisFirst Bancshares, Inc.",NYSE,Financials
+996,PVH,3947265717,PVH Corp.,NYSE,Consumer Discretionary
+997,SNDR,3933112813,"Schneider National, Inc.",NYSE,Industrials
+998,CNO,3926657624,"CNO Financial Group, Inc.",NYSE,Financials
+999,ALE,3921641274,"ALLETE, Inc.",NYSE,Utilities
+1000,ATMU,3974419677,Atmus Filtration Technologies Inc.,NYSE,Consumer Discretionary
+1001,AKO.A,3569752320,Embotelladora Andina S.A.,NYSE,Consumer Staples
+1002,AKO.B,4158600192,Embotelladora Andina S.A.,NYSE,Consumer Staples
+1003,OUT,3901582168,OUTFRONT Media Inc.,NYSE,Real Estate
+1004,VAL,3975327841,Valaris Limited,NYSE,Energy
+1005,CWK,3884008270,Cushman & Wakefield plc,NYSE,Real Estate
+1006,CRC,3880885121,California Resources Corporation,NYSE,Energy
+1007,CAAP,3832544500,Corporación América Airports S.A.,NYSE,Industrials
+1008,BRC,3810463836,Brady Corporation,NYSE,Industrials
+1009,MWA,3803533327,"Mueller Water Products, Inc.",NYSE,Industrials
+1010,HNGE,3799754593,"Hinge Health, Inc.",NYSE,Healthcare
+1011,UCB,3795932641,"United Community Banks, Inc.",NYSE,Financials
+1012,INSP,3858419647,"Inspire Medical Systems, Inc.",NYSE,Healthcare
+1013,NHI,3782973444,"National Health Investors, Inc.",NYSE,Real Estate
+1014,HAE,3934316097,Haemonetics Corporation,NYSE,Healthcare
+1015,NSA,2251872042,National Storage Affiliates Trust,NYSE,Real Estate
+1016,PII,3760763544,Polaris Inc.,NYSE,Consumer Discretionary
+1017,AB,4379302643,AllianceBernstein Holding L.P.,NYSE,Financials
+1018,SHAK,3501494165,Shake Shack Inc.,NYSE,Consumer Discretionary
+1019,CALX,3687004060,"Calix, Inc.",NYSE,Technology
+1020,TBBB,3692048053,BBB Foods Inc.,NYSE,Consumer Staples
+1021,FHI,3832696766,"Federated Hermes, Inc.",NYSE,Financials
+1022,TREX,3643445012,"Trex Company, Inc.",NYSE,Industrials
+1023,BRBR,3824727632,"BellRing Brands, Inc.",NYSE,Consumer Staples
+1024,PL,3611257271,Planet Labs PBC,NYSE,Industrials
+1025,MIAX,3588841772,"Miami International Holdings, Inc.",NYSE,Financials
+1026,MHO,3585237425,"M/I Homes, Inc.",NYSE,Consumer Discretionary
+1027,HGV,3584255597,Hilton Grand Vacations Inc.,NYSE,Consumer Discretionary
+1028,HAYW,3580412076,"Hayward Holdings, Inc.",NYSE,Industrials
+1029,SLG,3322590947,SL Green Realty Corp.,NYSE,Real Estate
+1030,CDP,3466170825,COPT Defense Properties,NYSE,Real Estate
+1031,JOE,3521261439,The St. Joe Company,NYSE,Real Estate
+1032,GNW,3650748729,"Genworth Financial, Inc.",NYSE,Financials
+1033,BNL,3354800336,"Broadstone Net Lease, Inc.",NYSE,Real Estate
+1034,GFF,3509590962,Griffon Corporation,NYSE,Industrials
+1035,KFY,3422278966,Korn Ferry,NYSE,Industrials
+1036,NVST,3461223251,Envista Holdings Corporation,NYSE,Healthcare
+1037,BBWI,3565908180,"Bath & Body Works, Inc.",NYSE,Consumer Discretionary
+1038,CVI,3437141180,"CVR Energy, Inc.",NYSE,Energy
+1039,TPC,3436750040,Tutor Perini Corporation,NYSE,Industrials
+1040,MH,3436117327,"McGraw Hill, Inc.",NYSE,Consumer Staples
+1041,RYN,3370406299,Rayonier Inc.,NYSE,Real Estate
+1042,MATX,3404612444,"Matson, Inc.",NYSE,Industrials
+1043,MPW,3398475000,"Medical Properties Trust, Inc.",NYSE,Real Estate
+1044,CBT,3387505071,Cabot Corporation,NYSE,Materials
+1045,AHL,3390672473,Aspen Insurance Holdings Limited,NYSE,Financials
+1046,RNST,3390339040,Renasant Corporation,NYSE,Financials
+1047,NP,2320538000,Neptune Insurance Holdings Inc.,NYSE,Financials
+1048,WHD,2912625773,"Cactus, Inc.",NYSE,Energy
+1049,AVA,3355711614,Avista Corporation,NYSE,Utilities
+1050,APAM,2931386557,Artisan Partners Asset Management Inc.,NYSE,Financials
+1051,AEO,3329201634,"American Eagle Outfitters, Inc.",NYSE,Consumer Discretionary
+1052,KAI,3316554630,Kadant Inc.,NYSE,Industrials
+1053,BXMT,3332062646,"Blackstone Mortgage Trust, Inc.",NYSE,Real Estate
+1054,AIR,2947676928,AAR Corp.,NYSE,Industrials
+1055,GRP.U,3382800000,Granite Real Estate Investment Trust,NYSE,
+1056,BKU,3255927601,"BankUnited, Inc.",NYSE,Financials
+1057,ATGE,3255401007,Adtalem Global Education Inc.,NYSE,Consumer Staples
+1058,CNK,3245522147,"Cinemark Holdings, Inc.",NYSE,Communication Services
+1059,CXT,3240899881,"Crane NXT, Co.",NYSE,Industrials
+1060,ENVA,3234043566,"Enova International, Inc.",NYSE,Financials
+1061,BTU,3232128000,Peabody Energy Corporation,NYSE,Energy
+1062,CPK,3244637338,Chesapeake Utilities Corporation,NYSE,Utilities
+1063,YETI,3397478782,"YETI Holdings, Inc.",NYSE,Consumer Discretionary
+1064,CNS,3201095766,"Cohen & Steers, Inc.",NYSE,Financials
+1065,SMG,3199294552,The Scotts Miracle-Gro Company,NYSE,Materials
+1066,SEI,3352197404,"Solaris Energy Infrastructure, Inc.",NYSE,Energy
+1067,AZZ,3192362679,AZZ Inc.,NYSE,Industrials
+1068,ARX,3189836238,Accelerant Holdings,NYSE,Financials
+1069,HTGC,3212775566,"Hercules Capital, Inc.",NYSE,Financials
+1070,FUL,3160954673,H.B. Fuller Company,NYSE,Materials
+1071,TGNA,3158323632,TEGNA Inc.,NYSE,Communication Services
+1072,BBAR,2936923645,Banco BBVA Argentina S.A.,NYSE,Financials
+1073,GEF.B,3070478848,"Greif, Inc.",NYSE,Consumer Discretionary
+1074,FBP,3232207496,First BanCorp.,NYSE,Financials
+1075,TTAM,2957173939,Titan America SA,NYSE,Materials
+1076,HIW,2967957483,"Highwoods Properties, Inc.",NYSE,Real Estate
+1077,AAP,3064735830,"Advance Auto Parts, Inc.",NYSE,Consumer Discretionary
+1078,VSCO,3053580457,Victoria's Secret & Co.,NYSE,Consumer Discretionary
+1079,CBU,3053839747,"Community Financial System, Inc.",NYSE,Financials
+1080,BFH,3048806603,"Bread Financial Holdings, Inc.",NYSE,Financials
+1081,EE,3098185877,"Excelerate Energy, Inc.",NYSE,Energy
+1082,GEF,3038286982,"Greif, Inc.",NYSE,Consumer Discretionary
+1083,RLX,3042912909,RLX Technology Inc.,NYSE,Consumer Staples
+1084,BRSL,3205795367,Brightstar Lottery PLC,NYSE,Consumer Discretionary
+1085,UNF,3093386940,UniFirst Corporation,NYSE,Industrials
+1086,FBK,3014214735,FB Financial Corporation,NYSE,Financials
+1087,USAC,3011928313,"USA Compression Partners, LP",NYSE,Energy
+1088,COLD,3008063298,"Americold Realty Trust, Inc.",NYSE,Real Estate
+1089,TEX,3007160704,Terex Corporation,NYSE,Industrials
+1090,RCUS,2621709968,"Arcus Biosciences, Inc.",NYSE,Healthcare
+1091,KGS,3060422432,"Kodiak Gas Services, Inc.",NYSE,Energy
+1092,RH,2991389073,RH,NYSE,Consumer Discretionary
+1093,KEN,3029495368,Kenon Holdings Ltd.,NYSE,Utilities
+1094,CPRI,2965476189,Capri Holdings Limited,NYSE,Consumer Discretionary
+1095,GRBK,2960248409,"Green Brick Partners, Inc.",NYSE,Consumer Discretionary
+1096,VIA,2814236358,"Via Transportation, Inc.",NYSE,Technology
+1097,HAFN,3003260299,Hafnia Limited,NYSE,Industrials
+1098,CMBT,1971307524,Cmb.Tech NV,NYSE,Energy
+1099,SXI,2936070028,Standex International Corporation,NYSE,Industrials
+1100,ASAN,2933515098,"Asana, Inc.",NYSE,Technology
+1101,BSM,2913108165,"Black Stone Minerals, L.P.",NYSE,Energy
+1102,TPH,2908666338,"Tri Pointe Homes, Inc.",NYSE,Consumer Discretionary
+1103,BANC,2891173007,"Banc of California, Inc.",NYSE,Financials
+1104,SPHR,2972581240,Sphere Entertainment Co.,NYSE,Communication Services
+1105,AWR,2845325117,American States Water Company,NYSE,Utilities
+1106,ATHM,711648922,Autohome Inc.,NYSE,Communication Services
+1107,LXP,2863288098,LXP Industrial Trust,NYSE,Real Estate
+1108,FSM,2857797470,Fortuna Mining Corp.,NYSE,Materials
+1109,HOG,2978233331,"Harley-Davidson, Inc.",NYSE,Consumer Discretionary
+1110,LBRT,2858716703,Liberty Energy Inc.,NYSE,Energy
+1111,TR,1636867482,"Tootsie Roll Industries, Inc.",NYSE,Consumer Staples
+1112,PAGS,2949739142,PagSeguro Digital Ltd.,NYSE,Technology
+1113,APLE,2838908304,"Apple Hospitality REIT, Inc.",NYSE,Real Estate
+1114,PBH,2917343225,Prestige Consumer Healthcare Inc.,NYSE,Healthcare
+1115,BKE,2885745273,"The Buckle, Inc.",NYSE,Consumer Discretionary
+1116,LCII,2825843608,LCI Industries,NYSE,Consumer Discretionary
+1117,TNET,2825261062,"TriNet Group, Inc.",NYSE,Industrials
+1118,COTY,2816886540,Coty Inc.,NYSE,Consumer Staples
+1119,AKR,2704554639,Acadia Realty Trust,NYSE,Real Estate
+1120,BCC,2794529427,Boise Cascade Company,NYSE,Materials
+1121,GLOB,2783753809,Globant S.A.,NYSE,Technology
+1122,STNG,3046757819,Scorpio Tankers Inc.,NYSE,Energy
+1123,AVNT,2772546656,Avient Corporation,NYSE,Materials
+1124,WOR,2750450801,"Worthington Enterprises, Inc.",NYSE,Industrials
+1125,WBI,750702233,WaterBridge Infrastructure LLC,NYSE,Energy
+1126,WU,2739823081,The Western Union Company,NYSE,Financials
+1127,AERO,271092101,"Grupo Aeroméxico, S.A.B. de C.V.",NYSE,Industrials
+1128,RHI,2764732016,Robert Half Inc.,NYSE,Industrials
+1129,NATL,2726220617,NCR Atleos Corporation,NYSE,Technology
+1130,LRN,2761339156,"Stride, Inc.",NYSE,Consumer Staples
+1131,CWT,2723324284,California Water Service Group,NYSE,Utilities
+1132,HP,2742736594,"Helmerich & Payne, Inc.",NYSE,Energy
+1133,HG,2790246454,"Hamilton Insurance Group, Ltd.",NYSE,Financials
+1134,CON,2712081474,"Concentra Group Holdings Parent, Inc.",NYSE,Healthcare
+1135,BBAI,2295379978,"BigBear.ai Holdings, Inc.",NYSE,Technology
+1136,NUVB,2693647452,Nuvation Bio Inc.,NYSE,Healthcare
+1137,SUNC,35901982900,SunocoCorp LLC,NYSE,Industrials
+1138,ZGN,2663827100,Ermenegildo Zegna N.V.,NYSE,Consumer Discretionary
+1139,BKD,2672249288,Brookdale Senior Living Inc.,NYSE,Healthcare
+1140,MANU,2672878654,Manchester United plc,NYSE,Communication Services
+1141,KAR,2667205994,"OPENLANE, Inc.",NYSE,Consumer Discretionary
+1142,BOH,2660826953,Bank of Hawaii Corporation,NYSE,Financials
+1143,INSW,2659347440,"International Seaways, Inc.",NYSE,Energy
+1144,TDC,2708894733,Teradata Corporation,NYSE,Technology
+1145,CBZ,2677638089,"CBIZ, Inc.",NYSE,Industrials
+1146,ABM,2691263598,ABM Industries Incorporated,NYSE,Industrials
+1147,SA,2626407068,Seabridge Gold Inc.,NYSE,Materials
+1148,DAN,3163748537,Dana Incorporated,NYSE,Consumer Discretionary
+1149,TDW,2586696989,Tidewater Inc.,NYSE,Energy
+1150,REVG,2567203227,"REV Group, Inc.",NYSE,Industrials
+1151,FCPT,2549150772,"Four Corners Property Trust, Inc.",NYSE,Real Estate
+1152,UE,2421424688,Urban Edge Properties,NYSE,Real Estate
+1153,PFS,2540605369,"Provident Financial Services, Inc.",NYSE,Financials
+1154,VTMX,263956025,"Corporación Inmobiliaria Vesta, S.A.B. de C.V.",NYSE,Real Estate
+1155,CURB,2521459112,Curbline Properties Corp.,NYSE,Real Estate
+1156,KSS,2511963928,Kohl's Corporation,NYSE,Consumer Discretionary
+1157,MTRN,2502959277,Materion Corporation,NYSE,Materials
+1158,ITGR,2502794769,Integer Holdings Corporation,NYSE,Healthcare
+1159,CGAU,2566630867,Centerra Gold Inc.,NYSE,Materials
+1160,DEI,2039519990,"Douglas Emmett, Inc.",NYSE,Real Estate
+1161,ATS,2451541488,ATS Corporation,NYSE,Industrials
+1162,OII,2470212665,"Oceaneering International, Inc.",NYSE,Energy
+1163,DKL,2450471928,"Delek Logistics Partners, LP",NYSE,Energy
+1164,RNG,2562206190,"RingCentral, Inc.",NYSE,Technology
+1165,CMPO,1990961297,"CompoSecure, Inc.",NYSE,Industrials
+1166,SPNT,2443762269,SiriusPoint Ltd.,NYSE,Financials
+1167,WRBY,2442002788,Warby Parker Inc.,NYSE,Healthcare
+1168,ERO,2429731492,Ero Copper Corp.,NYSE,Materials
+1169,CCU,2403617015,Compañía Cervecerías Unidas S.A.,NYSE,Consumer Staples
+1170,DRD,2424840508,DRDGOLD Limited,NYSE,Materials
+1171,BTE,2435564909,Baytex Energy Corp.,NYSE,Energy
+1172,CLVT,2420852353,Clarivate Plc,NYSE,Technology
+1173,KWR,2415172166,Quaker Chemical Corporation,NYSE,Materials
+1174,CIVI,2603316652,"Civitas Resources, Inc.",NYSE,Energy
+1175,KMPR,2567349198,Kemper Corporation,NYSE,Financials
+1176,BBUC,2373589386,Brookfield Business Corporation,NYSE,Financials
+1177,CUBI,2196510009,"Customers Bancorp, Inc.",NYSE,Financials
+1178,ASH,2367605745,Ashland Inc.,NYSE,Materials
+1179,BB,2374336280,BlackBerry Limited,NYSE,Technology
+1180,GENI,2364529652,Genius Sports Limited,NYSE,Communication Services
+1181,ZIM,2350126020,ZIM Integrated Shipping Services Ltd.,NYSE,Industrials
+1182,HBI,2342170279,Hanesbrands Inc.,NYSE,Consumer Discretionary
+1183,BHC,2341666972,Bausch Health Companies Inc.,NYSE,Healthcare
+1184,CRGY,2340064321,Crescent Energy Company,NYSE,Energy
+1185,GRND,2370754840,Grindr Inc.,NYSE,Technology
+1186,OLN,2317404375,Olin Corporation,NYSE,Materials
+1187,MSGE,2312385616,Madison Square Garden Entertainment Corp.,NYSE,Consumer Discretionary
+1188,EXK,2292629444,Endeavour Silver Corp.,NYSE,Materials
+1189,DK,2296371387,"Delek US Holdings, Inc.",NYSE,Energy
+1190,DBD,2382392192,"Diebold Nixdorf, Incorporated",NYSE,Technology
+1191,BKV,2160662641,BKV Corporation,NYSE,Energy
+1192,SKE,2284299962,Skeena Resources Limited,NYSE,Materials
+1193,HCI,2275782497,"HCI Group, Inc.",NYSE,Financials
+1194,FLO,2274389483,"Flowers Foods, Inc.",NYSE,Consumer Staples
+1195,DXC,2352876462,DXC Technology Company,NYSE,Technology
+1196,CEPU,2125863597,Central Puerto S.A.,NYSE,Utilities
+1197,SII,2264807040,Sprott Inc.,NYSE,Financials
+1198,PARR,2263096935,"Par Pacific Holdings, Inc.",NYSE,Energy
+1199,IHS,2247839388,IHS Holding Limited,NYSE,Real Estate
+1200,TGLS,2270276958,Tecnoglass Inc.,NYSE,Materials
+1201,UNFI,2248180583,"United Natural Foods, Inc.",NYSE,Consumer Staples
+1202,AMBP,2241373448,Ardagh Metal Packaging S.A.,NYSE,Consumer Discretionary
+1203,HI,2237329144,"Hillenbrand, Inc.",NYSE,Industrials
+1204,LU,1072762376,Lufax Holding Ltd,NYSE,Financials
+1205,CSTM,2219435023,Constellium SE,NYSE,Materials
+1206,AORT,2218412590,"Artivion, Inc.",NYSE,Healthcare
+1207,IVT,2195852260,InvenTrust Properties Corp.,NYSE,Real Estate
+1208,ATKR,2190986070,Atkore Inc.,NYSE,Industrials
+1209,WD,2188626906,"Walker & Dunlop, Inc.",NYSE,Financials
+1210,BBT,2177244441,Beacon Financial Corporation,NYSE,Financials
+1211,PK,2164898351,Park Hotels & Resorts Inc.,NYSE,Real Estate
+1212,STC,2162573495,Stewart Information Services Corporation,NYSE,Financials
+1213,AAUC,2166271789,Allied Gold Corporation,NYSE,Materials
+1214,MODG,2149599717,Topgolf Callaway Brands Corp.,NYSE,Consumer Discretionary
+1215,SAH,2145751051,"Sonic Automotive, Inc.",NYSE,Consumer Discretionary
+1216,HTH,2224308534,Hilltop Holdings Inc.,NYSE,Financials
+1217,GEO,2172869057,"The GEO Group, Inc.",NYSE,Industrials
+1218,RXO,2133454336,"RXO, Inc.",NYSE,Industrials
+1219,TIC,2121784439,"TIC Solutions, Inc.",NYSE,Industrials
+1220,SM,2119804833,SM Energy Company,NYSE,Energy
+1221,NOG,2128720950,"Northern Oil and Gas, Inc.",NYSE,Energy
+1222,KMT,2113399841,Kennametal Inc.,NYSE,Industrials
+1223,TRN,2144693683,"Trinity Industries, Inc.",NYSE,Industrials
+1224,PHIN,2110992492,PHINIA Inc.,NYSE,Consumer Discretionary
+1225,DHT,2095216273,"DHT Holdings, Inc.",NYSE,Energy
+1226,LION,2080256439,Lionsgate Studios Corp.,NYSE,Communication Services
+1227,MD,2116877565,"Pediatrix Medical Group, Inc.",NYSE,Healthcare
+1228,BUR,2061929670,Burford Capital Limited,NYSE,Financials
+1229,DQ,2056191478,Daqo New Energy Corp.,NYSE,Technology
+1230,TNK,2047089427,Teekay Tankers Ltd.,NYSE,Energy
+1231,SID,2055445618,Companhia Siderúrgica Nacional,NYSE,Materials
+1232,CTRI,1883794544,"Centuri Holdings, Inc.",NYSE,Utilities
+1233,AMR,2069725245,"Alpha Metallurgical Resources, Inc.",NYSE,Materials
+1234,TSLX,2037289023,"Sixth Street Specialty Lending, Inc.",NYSE,Financials
+1235,NWN,2027212032,Northwest Natural Holding Company,NYSE,Utilities
+1236,HE,2024835791,"Hawaiian Electric Industries, Inc.",NYSE,Utilities
+1237,DX,2024671864,"Dynex Capital, Inc.",NYSE,Real Estate
+1238,OI,2019735262,"O-I Glass, Inc.",NYSE,Consumer Discretionary
+1239,EPAC,2055969677,Enerpac Tool Group Corp.,NYSE,Industrials
+1240,LC,2007358933,LendingClub Corporation,NYSE,Financials
+1241,SAM,2127154617,"The Boston Beer Company, Inc.",NYSE,Consumer Staples
+1242,ALG,1982568638,Alamo Group Inc.,NYSE,Industrials
+1243,AI,1867103572,"C3.ai, Inc.",NYSE,Technology
+1244,OGN,1952309476,Organon & Co.,NYSE,Healthcare
+1245,FIHL,2060900887,Fidelis Insurance Holdings Limited,NYSE,Financials
+1246,ASGN,2002972294,ASGN Incorporated,NYSE,Technology
+1247,TALO,2027889225,Talos Energy Inc.,NYSE,Energy
+1248,IMAX,1938375592,IMAX Corporation,NYSE,Communication Services
+1249,ESRT,1172702105,"Empire State Realty Trust, Inc.",NYSE,Real Estate
+1250,GEL,1928183056,"Genesis Energy, L.P.",NYSE,Energy
+1251,SEM,1930343377,Select Medical Holdings Corporation,NYSE,Healthcare
+1252,PRKS,1937147267,United Parks & Resorts Inc.,NYSE,Consumer Discretionary
+1253,WLYB,1921341241,"John Wiley & Sons, Inc.",NYSE,Communication Services
+1254,WLY,1919212921,"John Wiley & Sons, Inc.",NYSE,Communication Services
+1255,ARR,1907864924,"ARMOUR Residential REIT, Inc.",NYSE,Real Estate
+1256,UAA,1931056889,"Under Armour, Inc.",NYSE,Consumer Discretionary
+1257,EVTC,1906629628,"EVERTEC, Inc.",NYSE,Technology
+1258,MNR,1299868302,Mach Natural Resources LP,NYSE,Energy
+1259,KN,1910474196,Knowles Corporation,NYSE,Technology
+1260,SLVM,1948827817,Sylvamo Corporation,NYSE,Materials
+1261,HNI,1892280566,HNI Corporation,NYSE,Consumer Discretionary
+1262,VAC,1890600239,Marriott Vacations Worldwide Corporation,NYSE,Consumer Discretionary
+1263,ABR,1704053654,"Arbor Realty Trust, Inc.",NYSE,Real Estate
+1264,NTB,1960111640,The Bank of N.T. Butterfield & Son Limited,NYSE,Financials
+1265,CCS,1884708296,"Century Communities, Inc.",NYSE,Real Estate
+1266,RAMP,1940251006,"LiveRamp Holdings, Inc.",NYSE,Technology
+1267,TPB,1779182633,"Turning Point Brands, Inc.",NYSE,Consumer Staples
+1268,SMA,1272770736,"SmartStop Self Storage REIT, Inc.",NYSE,Real Estate
+1269,NIC,1875911099,"Nicolet Bankshares, Inc.",NYSE,Financials
+1270,NGVT,1897313741,Ingevity Corporation,NYSE,Materials
+1271,DRH,1864508870,DiamondRock Hospitality Company,NYSE,Real Estate
+1272,AGM,1868531825,Federal Agricultural Mortgage Corporation,NYSE,Financials
+1273,UA,1845232138,"Under Armour, Inc.",NYSE,Consumer Discretionary
+1274,HMN,1865405783,Horace Mann Educators Corporation,NYSE,Financials
+1275,SCS,1863120992,Steelcase Inc.,NYSE,Consumer Discretionary
+1276,SDRL,1859366943,Seadrill Limited,NYSE,Energy
+1277,GRDN,1859823469,"Guardian Pharmacy Services, Inc.",NYSE,Healthcare
+1278,BWLP,1869300817,BW LPG Limited,NYSE,Industrials
+1279,CXW,1927794435,"CoreCivic, Inc.",NYSE,Industrials
+1280,CC,1846493880,The Chemours Company,NYSE,Materials
+1281,FSLY,1843596000,"Fastly, Inc.",NYSE,Technology
+1282,MTX,1843462377,Minerals Technologies Inc.,NYSE,Materials
+1283,CMRE,1831810537,Costamare Inc.,NYSE,Industrials
+1284,AGM.A,1787619584,Federal Agricultural Mortgage Corporation,NYSE,Financials
+1285,AGM.PRH,,Federal Agricultural Mortgage Corporation,NYSE,
+1286,YELP,1898508923,Yelp Inc.,NYSE,Communication Services
+1287,VSH,1803067514,"Vishay Intertechnology, Inc.",NYSE,Technology
+1288,HLIO,1798745292,"Helios Technologies, Inc.",NYSE,Industrials
+1289,GNL,1793317310,"Global Net Lease, Inc.",NYSE,Real Estate
+1290,PRGO,1777940115,Perrigo Company plc,NYSE,Healthcare
+1291,DAC,1776590191,Danaos Corporation,NYSE,Industrials
+1292,SHO,1773695412,"Sunstone Hotel Investors, Inc.",NYSE,Real Estate
+1293,NOMD,1773199992,Nomad Foods Limited,NYSE,Consumer Staples
+1294,DFH,1805624923,"Dream Finders Homes, Inc.",NYSE,Consumer Discretionary
+1295,DBRG,1715312851,"DigitalBridge Group, Inc.",NYSE,Financials
+1296,CXM,1845453513,"Sprinklr, Inc.",NYSE,Technology
+1297,OFG,1764802043,OFG Bancorp,NYSE,Financials
+1298,SEMR,1761888396,"Semrush Holdings, Inc.",NYSE,Technology
+1299,AMRC,1756399621,"Ameresco, Inc.",NYSE,Industrials
+1300,RVLV,1747616826,"Revolve Group, Inc.",NYSE,Consumer Discretionary
+1301,ENOV,1739736900,Enovis Corporation,NYSE,Healthcare
+1302,LTC,1662658184,"LTC Properties, Inc.",NYSE,Real Estate
+1303,VVX,1736406574,"V2X, Inc.",NYSE,Industrials
+1304,SHCO,1729816867,Soho House & Co Inc.,NYSE,Consumer Discretionary
+1305,CDRE,1730021220,"Cadre Holdings, Inc.",NYSE,Industrials
+1306,FCF,1720440064,First Commonwealth Financial Corporation,NYSE,Financials
+1307,WS,1712431140,"Worthington Steel, Inc.",NYSE,Materials
+1308,FDP,1702410051,Fresh Del Monte Produce Inc.,NYSE,Consumer Staples
+1309,DV,1725855790,"DoubleVerify Holdings, Inc.",NYSE,Communication Services
+1310,FMC,1676427299,FMC Corporation,NYSE,Materials
+1311,EFXT,1694769346,Enerflex Ltd.,NYSE,Energy
+1312,HUN,1661059809,Huntsman Corporation,NYSE,Materials
+1313,BLX,1648445362,"Banco Latinoamericano de Comercio Exterior, S. A.",NYSE,Financials
+1314,GTY,1588948203,Getty Realty Corp.,NYSE,Real Estate
+1315,STEL,1627762309,"Stellar Bancorp, Inc.",NYSE,Financials
+1316,WMK,1625720023,"Weis Markets, Inc.",NYSE,Consumer Staples
+1317,LZB,1620948756,La-Z-Boy Incorporated,NYSE,Consumer Discretionary
+1318,XPRO,1622268858,Expro Group Holdings N.V.,NYSE,Energy
+1319,HOUS,1608588707,Anywhere Real Estate Inc.,NYSE,Real Estate
+1320,AAMI,1602982397,Acadian Asset Management Inc.,NYSE,Financials
+1321,BHE,1607437706,"Benchmark Electronics, Inc.",NYSE,Technology
+1322,FIGS,1587318658,"FIGS, Inc.",NYSE,Consumer Discretionary
+1323,PBI,1763177843,Pitney Bowes Inc.,NYSE,Industrials
+1324,PGRE,1460189586,"Paramount Group, Inc.",NYSE,Real Estate
+1325,SBH,1558987647,"Sally Beauty Holdings, Inc.",NYSE,Consumer Discretionary
+1326,XZO,299947847,"Exzeo Group, Inc.",NYSE,Technology
+1327,NMM,1539026736,Navios Maritime Partners L.P.,NYSE,Industrials
+1328,INVX,1551278946,"Innovex International, Inc.",NYSE,Energy
+1329,ADNT,1620994453,Adient plc,NYSE,Consumer Discretionary
+1330,RHLD,1530246121,"Resolute Holdings Management, Inc.",NYSE,Industrials
+1331,LAC,1123091509,Lithium Americas Corp.,NYSE,Materials
+1332,VRE,1399527098,"Veris Residential, Inc.",NYSE,Real Estate
+1333,NTST,1518573849,NETSTREIT Corp.,NYSE,Real Estate
+1334,MSDL,1496625174,Morgan Stanley Direct Lending Fund,NYSE,Financials
+1335,ARCO,1518855903,Arcos Dorados Holdings Inc.,NYSE,Consumer Discretionary
+1336,ELME,1511963911,Elme Communities,NYSE,Real Estate
+1337,LSPD,1510778029,Lightspeed Commerce Inc.,NYSE,Technology
+1338,EFC,1318120446,Ellington Financial Inc.,NYSE,Real Estate
+1339,WT,1557848149,"WisdomTree, Inc.",NYSE,Financials
+1340,AAT,1188193891,"American Assets Trust, Inc.",NYSE,Real Estate
+1341,ARLO,1452388351,"Arlo Technologies, Inc.",NYSE,Industrials
+1342,FUN,1488628700,Six Flags Entertainment Corporation,NYSE,Consumer Discretionary
+1343,FLOC,1453734755,Flowco Holdings Inc.,NYSE,Energy
+1344,NVRI,1479977045,Enviri Corporation,NYSE,Industrials
+1345,GLP,1469624973,Global Partners LP,NYSE,Energy
+1346,LOB,1475214318,"Live Oak Bancshares, Inc.",NYSE,Financials
+1347,ROG,1468434343,Rogers Corporation,NYSE,Technology
+1348,DNOW,1463892609,DNOW Inc.,NYSE,Industrials
+1349,EDN,1344874693,Empresa Distribuidora y Comercializadora Norte Sociedad Anónima,NYSE,Utilities
+1350,TV,1477933879,"Grupo Televisa, S.A.B.",NYSE,Communication Services
+1351,CDLR,1472888989,Cadeler A/S,NYSE,Industrials
+1352,NBHC,1437156732,National Bank Holdings Corporation,NYSE,Financials
+1353,FLNG,1427376198,FLEX LNG Ltd.,NYSE,Energy
+1354,PD,1388269549,"PagerDuty, Inc.",NYSE,Technology
+1355,ARI,1414448200,"Apollo Commercial Real Estate Finance, Inc.",NYSE,Real Estate
+1356,XHR,1331072702,"Xenia Hotels & Resorts, Inc.",NYSE,Real Estate
+1357,LADR,1412501125,Ladder Capital Corp,NYSE,Real Estate
+1358,BTX,771455070,BlackRock Innovation and Growth Term Trust,NYSE,Financials
+1359,JMIA,703548924,Jumia Technologies AG,NYSE,Consumer Discretionary
+1360,TUYA,1419349760,Tuya Inc.,NYSE,Technology
+1361,AMPX,1400091582,"Amprius Technologies, Inc.",NYSE,Industrials
+1362,CTOS,1397872646,"Custom Truck One Source, Inc.",NYSE,Industrials
+1363,VYX,1396055032,NCR Voyix Corporation,NYSE,Technology
+1364,MBC,1398091948,"MasterBrand, Inc.",NYSE,Consumer Discretionary
+1365,PAR,1384966012,PAR Technology Corporation,NYSE,Technology
+1366,GBX,1372486989,"The Greenbrier Companies, Inc.",NYSE,Industrials
+1367,SPB,1424826080,"Spectrum Brands Holdings, Inc.",NYSE,Consumer Staples
+1368,IIPR,1372565316,"Innovative Industrial Properties, Inc.",NYSE,Real Estate
+1369,BST,1370746350,BlackRock Science and Technology Trust,NYSE,Financials
+1370,NABL,1380316109,"N-able, Inc.",NYSE,Technology
+1371,SVV,1368248674,"Savers Value Village, Inc.",NYSE,Consumer Discretionary
+1372,NRP,1366362088,Natural Resource Partners L.P.,NYSE,Energy
+1373,AIN,1437945808,Albany International Corp.,NYSE,Consumer Discretionary
+1374,LEG,1351494993,"Leggett & Platt, Incorporated",NYSE,Consumer Discretionary
+1375,DCO,1346495756,Ducommun Incorporated,NYSE,Industrials
+1376,DOLE,1346551597,Dole plc,NYSE,Consumer Staples
+1377,KW,1341809754,"Kennedy-Wilson Holdings, Inc.",NYSE,Real Estate
+1378,NSP,1339982852,"Insperity, Inc.",NYSE,Industrials
+1379,CNMD,1339673690,CONMED Corporation,NYSE,Healthcare
+1380,TNC,1368182496,Tennant Company,NYSE,Industrials
+1381,KRP,1329180493,"Kimbell Royalty Partners, LP",NYSE,Energy
+1382,TFIN,1327898848,"Triumph Financial, Inc.",NYSE,Financials
+1383,JBGS,1078283286,JBG SMITH Properties,NYSE,Real Estate
+1384,FINV,1313735643,FinVolution Group,NYSE,Financials
+1385,TDOC,1323951601,"Teladoc Health, Inc.",NYSE,Healthcare
+1386,JKS,330704747,"JinkoSolar Holding Co., Ltd.",NYSE,Technology
+1387,WKC,1321743210,World Kinect Corporation,NYSE,Energy
+1388,LOMA,1321005206,Loma Negra Compañía Industrial Argentina Sociedad Anónima,NYSE,Materials
+1389,VET,1329951751,Vermilion Energy Inc.,NYSE,Energy
+1390,EVEX,1137333960,"Eve Holding, Inc.",NYSE,Industrials
+1391,UVV,1316584619,Universal Corporation,NYSE,Consumer Staples
+1392,WWW,1299269867,"Wolverine World Wide, Inc.",NYSE,Consumer Discretionary
+1393,PEB,1359799561,Pebblebrook Hotel Trust,NYSE,Real Estate
+1394,CYD,1315767553,China Yuchai International Limited,NYSE,Consumer Discretionary
+1395,COUR,1277703261,"Coursera, Inc.",NYSE,Consumer Staples
+1396,MAN,1311136138,ManpowerGroup Inc.,NYSE,Industrials
+1397,GOOS,1309138792,Canada Goose Holdings Inc.,NYSE,Consumer Discretionary
+1398,ARDT,1307303518,"Ardent Health, Inc.",NYSE,Healthcare
+1399,ACVA,1306779598,ACV Auctions Inc.,NYSE,Consumer Discretionary
+1400,SILA,1304135793,"Sila Realty Trust, Inc.",NYSE,Real Estate
+1401,BY,1298976843,"Byline Bancorp, Inc.",NYSE,Financials
+1402,FOR,1294439280,Forestar Group Inc.,NYSE,Real Estate
+1403,DFIN,1293236228,"Donnelley Financial Solutions, Inc.",NYSE,Technology
+1404,UMH,1289871000,"UMH Properties, Inc.",NYSE,Real Estate
+1405,LNN,1279958463,Lindsay Corporation,NYSE,Industrials
+1406,LUXE,1017931613,LuxExperience B.V.,NYSE,Consumer Discretionary
+1407,DSL,1296298777,DoubleLine Income Solutions Fund,NYSE,Financials
+1408,SPH,1259706715,"Suburban Propane Partners, L.P.",NYSE,Utilities
+1409,GSL,1257338418,"Global Ship Lease, Inc.",NYSE,Industrials
+1410,IDT,1261418445,IDT Corporation,NYSE,Communication Services
+1411,BHVN,996192793,Biohaven Ltd.,NYSE,Healthcare
+1412,UTI,1246844928,"Universal Technical Institute, Inc.",NYSE,Consumer Staples
+1413,VOYG,1246927058,"Voyager Technologies, Inc.",NYSE,Industrials
+1414,GHLD,1237570622,Guild Holdings Company,NYSE,Financials
+1415,PRA,1235469841,ProAssurance Corporation,NYSE,Financials
+1416,PHR,1235436433,"Phreesia, Inc.",NYSE,Healthcare
+1417,CTS,1266535841,CTS Corporation,NYSE,Technology
+1418,ATEN,1224480313,"A10 Networks, Inc.",NYSE,Technology
+1419,HLF,1222165818,Herbalife Ltd.,NYSE,Consumer Staples
+1420,GRC,1221705254,The Gorman-Rupp Company,NYSE,Industrials
+1421,ORC,1096953552,"Orchid Island Capital, Inc.",NYSE,Real Estate
+1422,WTTR,1050135126,"Select Water Solutions, Inc.",NYSE,Energy
+1423,PRLB,1202406671,"Proto Labs, Inc.",NYSE,Industrials
+1424,THS,1199880000,"TreeHouse Foods, Inc.",NYSE,Consumer Staples
+1425,ENR,1198106009,"Energizer Holdings, Inc.",NYSE,Industrials
+1426,NGL,1185563203,NGL Energy Partners LP,NYSE,Energy
+1427,BV,1186250000,"BrightView Holdings, Inc.",NYSE,Industrials
+1428,CWH,720540307,"Camping World Holdings, Inc.",NYSE,Consumer Discretionary
+1429,CSR,1112363509,Centerspace,NYSE,Real Estate
+1430,ALIT,1181691600,"Alight, Inc.",NYSE,Technology
+1431,ECO,1186678286,Okeanis Eco Tankers Corp.,NYSE,Industrials
+1432,NVGS,1215628290,Navigator Holdings Ltd.,NYSE,Energy
+1433,MMI,1161662889,"Marcus & Millichap, Inc.",NYSE,Real Estate
+1434,IRS,1097570199,IRSA Inversiones y Representaciones Sociedad Anónima,NYSE,Real Estate
+1435,BAK,1147631530,Braskem S.A.,NYSE,Materials
+1436,AMC,1159252448,"AMC Entertainment Holdings, Inc.",NYSE,Communication Services
+1437,THR,1156627442,"Thermon Group Holdings, Inc.",NYSE,Industrials
+1438,PRG,1154335860,"PROG Holdings, Inc.",NYSE,Industrials
+1439,RLJ,1154289996,RLJ Lodging Trust,NYSE,Real Estate
+1440,DEC,1159125466,Diversified Energy Company,NYSE,Energy
+1441,RES,1160221739,"RPC, Inc.",NYSE,Energy
+1442,CRI,1137065280,"Carter's, Inc.",NYSE,Consumer Discretionary
+1443,ALEX,1136487145,"Alexander & Baldwin, Inc.",NYSE,Real Estate
+1444,OBK,1136018657,"Origin Bancorp, Inc.",NYSE,Financials
+1445,USPH,1127537465,"U.S. Physical Therapy, Inc.",NYSE,Healthcare
+1446,YALA,1124738608,Yalla Group Limited,NYSE,Technology
+1447,SBR,1122755358,Sabine Royalty Trust,NYSE,Energy
+1448,DAO,1104468117,"Youdao, Inc.",NYSE,Consumer Staples
+1449,PRO,1118060132,"PROS Holdings, Inc.",NYSE,Technology
+1450,GSBD,1116026079,"Goldman Sachs BDC, Inc.",NYSE,Financials
+1451,PMT,1115552863,PennyMac Mortgage Investment Trust,NYSE,Real Estate
+1452,DEA,998441047,"Easterly Government Properties, Inc.",NYSE,Real Estate
+1453,SFL,1096171277,SFL Corporation Ltd.,NYSE,Industrials
+1454,KBDC,1045771033,"Kayne Anderson BDC, Inc.",NYSE,Financials
+1455,VTOL,1084500000,Bristow Group Inc.,NYSE,Energy
+1456,ALX,1084124448,"Alexander's, Inc.",NYSE,Real Estate
+1457,VRTS,1081581271,"Virtus Investment Partners, Inc.",NYSE,Financials
+1458,REX,1080652094,REX American Resources Corporation,NYSE,Materials
+1459,GIC,1079298433,Global Industrial Company,NYSE,Industrials
+1460,NMAX,751478912,Newsmax Inc.,NYSE,Communication Services
+1461,BFS,760199458,"Saul Centers, Inc.",NYSE,Real Estate
+1462,PXED,1060014999,"Phoenix Education Partners, Inc.",NYSE,Consumer Staples
+1463,LPG,1051980203,Dorian LPG Ltd.,NYSE,Energy
+1464,PDM,1055923477,"Piedmont Realty Trust, Inc.",NYSE,Real Estate
+1465,CIM,1028350127,Chimera Investment Corporation,NYSE,Real Estate
+1466,TWO,1046765971,Two Harbors Investment Corp.,NYSE,Real Estate
+1467,YEXT,1041350935,"Yext, Inc.",NYSE,Technology
+1468,LUCK,1041389183,Lucky Strike Entertainment Corporation,NYSE,Consumer Discretionary
+1469,AESI,1032487004,Atlas Energy Solutions Inc.,NYSE,Energy
+1470,NPKI,1029390608,NPK International Inc.,NYSE,Energy
+1471,SCL,1027808042,Stepan Company,NYSE,Materials
+1472,WGO,1022249493,"Winnebago Industries, Inc.",NYSE,Consumer Discretionary
+1473,PLYM,1010420400,"Plymouth Industrial REIT, Inc.",NYSE,Real Estate
+1474,PX,1015156148,"P10, Inc.",NYSE,Financials
+1475,ECVT,1015912979,Ecovyst Inc.,NYSE,Materials
+1476,CBL,1015287830,"CBL & Associates Properties, Inc.",NYSE,Real Estate
+1477,SAFE,1006023831,Safehold Inc.,NYSE,Real Estate
+1478,TTI,1003100355,"TETRA Technologies, Inc.",NYSE,Industrials
+1479,LDI,1038356801,"loanDepot, Inc.",NYSE,Financials
+1480,UAN,998830697,"CVR Partners, LP",NYSE,Materials
+1481,MNTN,993610151,"MNTN, Inc.",NYSE,Technology
+1482,PUMP,993029829,ProPetro Holding Corp.,NYSE,Energy
+1483,SDHC,172327062,Smith Douglas Homes Corp.,NYSE,Real Estate
+1484,HLX,982500526,"Helix Energy Solutions Group, Inc.",NYSE,Energy
+1485,OPTU,968674142,"Optimum Communications, Inc.",NYSE,Communication Services
+1486,MFA,973974930,"MFA Financial, Inc.",NYSE,Real Estate
+1487,PRSU,966439131,"Pursuit Attractions and Hospitality, Inc.",NYSE,Consumer Discretionary
+1488,CCO,953907692,"Clear Channel Outdoor Holdings, Inc.",NYSE,Communication Services
+1489,MUX,952863193,McEwen Inc.,NYSE,Materials
+1490,BORR,838227244,Borr Drilling Limited,NYSE,Energy
+1491,SUPV,898223735,Grupo Supervielle S.A.,NYSE,Financials
+1492,RERE,1533978613,ATRenew Inc.,NYSE,Consumer Discretionary
+1493,BBDC,943275674,"Barings BDC, Inc.",NYSE,Financials
+1494,UVE,932905782,"Universal Insurance Holdings, Inc.",NYSE,Financials
+1495,BH.A,900914880,Biglari Holdings Inc.,NYSE,Consumer Discretionary
+1496,ASA,923800651,ASA Gold and Precious Metals Limited,NYSE,Financials
+1497,DLX,921756959,Deluxe Corporation,NYSE,Industrials
+1498,BCSF,920484114,"Bain Capital Specialty Finance, Inc.",NYSE,Financials
+1499,BOW,919607778,Bowhead Specialty Holdings Inc.,NYSE,Financials
+1500,BH,912766714,Biglari Holdings Inc.,NYSE,Consumer Discretionary
+1501,FPH,434456356,"Five Point Holdings, LLC",NYSE,Real Estate
+1502,TYG,740165573,Tortoise Energy Infrastructure Corporation,NYSE,Financials
+1503,MEG,903373088,"Montrose Environmental Group, Inc.",NYSE,Industrials
+1504,PFLT,902882854,PennantPark Floating Rate Capital Ltd.,NYSE,Financials
+1505,UTL,820425989,Unitil Corporation,NYSE,Utilities
+1506,LVWR,893021460,"LiveWire Group, Inc.",NYSE,Consumer Discretionary
+1507,RDW,892257472,Redwire Corporation,NYSE,Industrials
+1508,SBSI,892963942,"Southside Bancshares, Inc.",NYSE,Financials
+1509,ASIC,890194802,Ategrity Specialty Insurance Company Holdings,NYSE,Financials
+1510,EIG,953752357,"Employers Holdings, Inc.",NYSE,Financials
+1511,GES,888018918,"Guess?, Inc.",NYSE,Consumer Discretionary
+1512,AIV,819789823,Apartment Investment and Management Company,NYSE,Real Estate
+1513,CTEV,862803873,Claritev Corporation,NYSE,Healthcare
+1514,XIFR,862611056,"XPLR Infrastructure, LP",NYSE,Utilities
+1515,NEXA,860850972,Nexa Resources S.A.,NYSE,Materials
+1516,JBI,857940923,"Janus International Group, Inc.",NYSE,Industrials
+1517,BFLY,856304450,"Butterfly Network, Inc.",NYSE,Healthcare
+1518,TK,850108839,Teekay Corporation Ltd.,NYSE,Energy
+1519,HIPO,846494661,Hippo Holdings Inc.,NYSE,Financials
+1520,FBRT,848355144,"Franklin BSP Realty Trust, Inc.",NYSE,Real Estate
+1521,HRTG,890867557,"Heritage Insurance Holdings, Inc.",NYSE,Financials
+1522,SMP,841432451,"Standard Motor Products, Inc.",NYSE,Consumer Discretionary
+1523,ACEL,858613577,"Accel Entertainment, Inc.",NYSE,Consumer Discretionary
+1524,LAR,842658780,Lithium Argentina AG,NYSE,Materials
+1525,EQBK,837076206,"Equity Bancshares, Inc.",NYSE,Financials
+1526,VSTS,835865061,Vestis Corporation,NYSE,Industrials
+1527,PBT,834297448,Permian Basin Royalty Trust,NYSE,Energy
+1528,OPFI,839011900,OppFi Inc.,NYSE,Financials
+1529,ODV,479987531,Osisko Development Corp.,NYSE,Materials
+1530,UTZ,821716778,"Utz Brands, Inc.",NYSE,Consumer Staples
+1531,BALY,691168077,Bally's Corporation,NYSE,Consumer Discretionary
+1532,BLND,809337731,"Blend Labs, Inc.",NYSE,Technology
+1533,CPF,823501873,Central Pacific Financial Corp.,NYSE,Financials
+1534,GNK,816863387,Genco Shipping & Trading Limited,NYSE,Industrials
+1535,EPC,815447482,Edgewell Personal Care Company,NYSE,Consumer Staples
+1536,NXRT,811663040,"NexPoint Residential Trust, Inc.",NYSE,Real Estate
+1537,MAX,819531300,"MediaAlpha, Inc.",NYSE,Communication Services
+1538,ODC,770229117,Oil-Dri Corporation of America,NYSE,Materials
+1539,SG,812029066,"Sweetgreen, Inc.",NYSE,Consumer Discretionary
+1540,VTS,806345227,"Vitesse Energy, Inc.",NYSE,Energy
+1541,QD,793727271,Qudian Inc.,NYSE,Financials
+1542,NCDL,720063408,Nuveen Churchill Direct Lending Corp.,NYSE,Financials
+1543,NAT,796182493,Nordic American Tankers Limited,NYSE,Energy
+1544,VLRS,804559308,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V.",NYSE,Industrials
+1545,ANGX,748700000,"Angel Studios, Inc.",NYSE,Communication Services
+1546,AGRO,3924733100,Adecoagro S.A.,NYSE,Consumer Staples
+1547,INR,201136785,"Infinity Natural Resources, Inc.",NYSE,Energy
+1548,CAPL,781088656,CrossAmerica Partners LP,NYSE,Energy
+1549,PDS,805640050,Precision Drilling Corporation,NYSE,Energy
+1550,AMTB,793172975,Amerant Bancorp Inc.,NYSE,Financials
+1551,CNNE,946391956,"Cannae Holdings, Inc.",NYSE,Consumer Discretionary
+1552,MCB,775439551,Metropolitan Bank Holding Corp.,NYSE,Financials
+1553,CMP,769572608,"Compass Minerals International, Inc.",NYSE,Materials
+1554,HOV,669436396,"Hovnanian Enterprises, Inc.",NYSE,Consumer Discretionary
+1555,ECC,758630815,Eagle Point Credit Company Inc.,NYSE,Financials
+1556,RSKD,758273213,Riskified Ltd.,NYSE,Technology
+1557,AXL,756096202,"American Axle & Manufacturing Holdings, Inc.",NYSE,Consumer Discretionary
+1558,FVRR,755647195,Fiverr International Ltd.,NYSE,Communication Services
+1559,SSTK,752879840,"Shutterstock, Inc.",NYSE,Communication Services
+1560,PLOW,748828535,"Douglas Dynamics, Inc.",NYSE,Consumer Discretionary
+1561,VEL,735850452,"Velocity Financial, Inc.",NYSE,Financials
+1562,TEN,735113513,Tsakos Energy Navigation Limited,NYSE,Energy
+1563,RYI,732763031,Ryerson Holding Corporation,NYSE,Industrials
+1564,NBR,732426901,Nabors Industries Ltd.,NYSE,Energy
+1565,KODK,627929032,Eastman Kodak Company,NYSE,Industrials
+1566,BRSP,727801732,"BrightSpire Capital, Inc.",NYSE,Real Estate
+1567,HPP,712482990,"Hudson Pacific Properties, Inc.",NYSE,Real Estate
+1568,HTB,725322851,"HomeTrust Bancshares, Inc.",NYSE,Financials
+1569,EEX,712531120,"Emerald Holding, Inc.",NYSE,Communication Services
+1570,OPY,704868594,Oppenheimer Holdings Inc.,NYSE,Financials
+1571,TRTX,709830408,"TPG RE Finance Trust, Inc.",NYSE,Real Estate
+1572,TDAY,729659400,"USA TODAY Co., Inc.",NYSE,Communication Services
+1573,SKYH,680644733,Sky Harbour Group Corporation,NYSE,Real Estate
+1574,MTUS,702615155,Metallus Inc.,NYSE,Materials
+1575,CARS,701609634,Cars.com Inc.,NYSE,Communication Services
+1576,CLB,701444679,Core Laboratories Inc.,NYSE,Energy
+1577,TE,505558281,T1 Energy Inc.,NYSE,Industrials
+1578,VTEX,712206339,VTEX,NYSE,Technology
+1579,MATV,689978598,"Mativ Holdings, Inc.",NYSE,Materials
+1580,WSR,681118655,Whitestone REIT,NYSE,Real Estate
+1581,NOAH,146704112,Noah Holdings Limited,NYSE,Financials
+1582,RWT,709841860,"Redwood Trust, Inc.",NYSE,Real Estate
+1583,SES,691015496,SES AI Corporation,NYSE,Consumer Discretionary
+1584,NXDR,678074242,"Nextdoor Holdings, Inc.",NYSE,Communication Services
+1585,NPK,675344793,"National Presto Industries, Inc.",NYSE,Industrials
+1586,MYE,672968391,"Myers Industries, Inc.",NYSE,Consumer Discretionary
+1587,AMN,671662891,"AMN Healthcare Services, Inc.",NYSE,Healthcare
+1588,CSV,671532481,"Carriage Services, Inc.",NYSE,Consumer Discretionary
+1589,GRNT,669381518,"Granite Ridge Resources, Inc.",NYSE,Energy
+1590,MSC,167002830,Studio City International Holdings Limited,NYSE,Consumer Discretionary
+1591,AHH,513783243,"Armada Hoffler Properties, Inc.",NYSE,Real Estate
+1592,TXO,662889933,"TXO Partners, L.P.",NYSE,Energy
+1593,GETY,661217688,"Getty Images Holdings, Inc.",NYSE,Communication Services
+1594,SMWB,641077503,Similarweb Ltd.,NYSE,Technology
+1595,BBW,679026040,"Build-A-Bear Workshop, Inc.",NYSE,Consumer Discretionary
+1596,WLKP,659692763,Westlake Chemical Partners LP,NYSE,Materials
+1597,BZH,674956800,"Beazer Homes USA, Inc.",NYSE,Consumer Discretionary
+1598,MSIF,665590271,"MSC Income Fund, Inc.",NYSE,Financials
+1599,GDOT,655637776,Green Dot Corporation,NYSE,Financials
+1600,BW,579902889,"Babcock & Wilcox Enterprises, Inc.",NYSE,Industrials
+1601,SOC,443802335,Sable Offshore Corp.,NYSE,Energy
+1602,LXU,644622711,"LSB Industries, Inc.",NYSE,Materials
+1603,NGVC,643403423,"Natural Grocers by Vitamin Cottage, Inc.",NYSE,Consumer Staples
+1604,INN,588624365,"Summit Hotel Properties, Inc.",NYSE,Real Estate
+1605,CABO,638707309,"Cable One, Inc.",NYSE,Communication Services
+1606,VTLE,671657567,"Vital Energy, Inc.",NYSE,Energy
+1607,GOTU,969586752,Gaotu Techedu Inc.,NYSE,Consumer Staples
+1608,HUYA,641283224,HUYA Inc.,NYSE,Communication Services
+1609,GHM,624841268,Graham Corporation,NYSE,Industrials
+1610,SMBK,621522037,"SmartFinancial, Inc.",NYSE,Financials
+1611,TROX,618331955,Tronox Holdings plc,NYSE,Materials
+1612,WDH,61512202,Waterdrop Inc.,NYSE,Financials
+1613,IIIN,613421096,Insteel Industries Inc.,NYSE,Industrials
+1614,BKSY,611441612,BlackSky Technology Inc.,NYSE,Industrials
+1615,IBTA,538071517,"Ibotta, Inc.",NYSE,Technology
+1616,FRGE,609366475,"Forge Global Holdings, Inc.",NYSE,Financials
+1617,ETD,600226885,Ethan Allen Interiors Inc.,NYSE,Consumer Discretionary
+1618,YSG,596188149,Yatsen Holding Limited,NYSE,Consumer Staples
+1619,NPB,258631410,"Northpointe Bancshares, Inc.",NYSE,Financials
+1620,SNDA,622601099,"Sonida Senior Living, Inc.",NYSE,Healthcare
+1621,BDN,587102752,Brandywine Realty Trust,NYSE,Real Estate
+1622,BCSS,2784800000,Bain Capital GSS Investment Corp.,NYSE,Financials
+1623,NPWR,221548158,NET Power Inc.,NYSE,Industrials
+1624,KOP,586260248,Koppers Holdings Inc.,NYSE,Materials
+1625,EVAC,585100000,EQV Ventures Acquisition Corp. II,NYSE,Financials
+1626,CTO,580973194,"CTO Realty Growth, Inc.",NYSE,Real Estate
+1627,CINT,590367308,CI&T Inc.,NYSE,Technology
+1628,EBS,591027268,Emergent BioSolutions Inc.,NYSE,Healthcare
+1629,NX,574836780,Quanex Building Products Corporation,NYSE,Industrials
+1630,UHT,568679602,Universal Health Realty Income Trust,NYSE,Real Estate
+1631,KRO,566061331,"Kronos Worldwide, Inc.",NYSE,Materials
+1632,IVR,512046120,Invesco Mortgage Capital Inc.,NYSE,Real Estate
+1633,EVMN,563954250,"Evommune, Inc.",NYSE,Healthcare
+1634,KREF,558049060,KKR Real Estate Finance Trust Inc.,NYSE,Real Estate
+1635,AVNS,555552993,"Avanos Medical, Inc.",NYSE,Healthcare
+1636,OXM,550084846,"Oxford Industries, Inc.",NYSE,Consumer Discretionary
+1637,SXC,549479153,"SunCoke Energy, Inc.",NYSE,Materials
+1638,CRD.A,549186816,Crawford & Company,NYSE,Financials
+1639,ADCT,507950012,ADC Therapeutics SA,NYSE,Healthcare
+1640,CPAC,546364647,Cementos Pacasmayo S.A.A.,NYSE,Materials
+1641,NRGV,541579895,"Energy Vault Holdings, Inc.",NYSE,Utilities
+1642,HZO,539957955,"MarineMax, Inc.",NYSE,Consumer Discretionary
+1643,CPS,537752343,Cooper-Standard Holdings Inc.,NYSE,Consumer Discretionary
+1644,BWMX,536611931,"Betterware de México, S.A.P.I. de C.V.",NYSE,Consumer Discretionary
+1645,TCBX,534644121,"Third Coast Bancshares, Inc.",NYSE,Financials
+1646,TWI,534553264,"Titan International, Inc.",NYSE,Industrials
+1647,KOS,521376380,Kosmos Energy Ltd.,NYSE,Energy
+1648,HY,521153767,"Hyster-Yale, Inc.",NYSE,Industrials
+1649,CRD.B,555714624,Crawford & Company,NYSE,Financials
+1650,WOLF,514223978,"Wolfspeed, Inc.",NYSE,Technology
+1651,CION,514133419,CION Investment Corporation,NYSE,Financials
+1652,KFRC,540238980,Kforce Inc.,NYSE,Industrials
+1653,PSTL,507513481,"Postal Realty Trust, Inc.",NYSE,Real Estate
+1654,CLCO,515858578,Cool Company Ltd.,NYSE,Energy
+1655,SD,510051857,"SandRidge Energy, Inc.",NYSE,Energy
+1656,ASC,509127689,Ardmore Shipping Corporation,NYSE,Industrials
+1657,AEXA,386626250,American Exceptionalism Acquisition Corp. A,NYSE,Financials
+1658,SB,500345284,"Safe Bulkers, Inc.",NYSE,Industrials
+1659,CODI,498814455,Compass Diversified,NYSE,Industrials
+1660,GTN.A,826901952,"Gray Media, Inc.",NYSE,Communication Services
+1661,DNA,475969212,"Ginkgo Bioworks Holdings, Inc.",NYSE,Healthcare
+1662,CVLG,495780359,"Covenant Logistics Group, Inc.",NYSE,Industrials
+1663,NUS,501736636,"Nu Skin Enterprises, Inc.",NYSE,Consumer Staples
+1664,WEAV,492342527,"Weave Communications, Inc.",NYSE,Healthcare
+1665,PKST,491893892,Peakstone Realty Trust,NYSE,Real Estate
+1666,ZKH,494582367,ZKH Group Limited,NYSE,Consumer Discretionary
+1667,HLLY,486940799,Holley Inc.,NYSE,Consumer Discretionary
+1668,MCS,492313728,The Marcus Corporation,NYSE,Communication Services
+1669,EVH,495964367,"Evolent Health, Inc.",NYSE,Healthcare
+1670,MAGN,480600000,Magnera Corporation,NYSE,Materials
+1671,BKKT,244907117,"Bakkt Holdings, Inc.",NYSE,Technology
+1672,KRSP,478900000,Rice Acquisition Corporation 3,NYSE,Financials
+1673,CANG,496342655,Cango Inc.,NYSE,Financials
+1674,BXC,477802274,BlueLinx Holdings Inc.,NYSE,Industrials
+1675,RGR,477370935,"Sturm, Ruger & Company, Inc.",NYSE,Industrials
+1676,UP,462251517,Wheels Up Experience Inc.,NYSE,Industrials
+1677,HKD,721307242,AMTD Digital Inc.,NYSE,Technology
+1678,GTN,452326198,"Gray Media, Inc.",NYSE,Communication Services
+1679,CMTG,468741675,"Claros Mortgage Trust, Inc.",NYSE,Real Estate
+1680,KLC,466112382,"KinderCare Learning Companies, Inc.",NYSE,Consumer Staples
+1681,AAM,466775357,AA Mission Acquisition Corp.,NYSE,Financials
+1682,CYH,480663064,"Community Health Systems, Inc.",NYSE,Healthcare
+1683,MOV,323521640,"Movado Group, Inc.",NYSE,Consumer Discretionary
+1684,GMRE,88199663,Global Medical REIT Inc.,NYSE,Real Estate
+1685,OLP,454331950,"One Liberty Properties, Inc.",NYSE,Real Estate
+1686,FFWM,451353471,First Foundation Inc.,NYSE,Financials
+1687,LAW,451189309,"CS Disco, Inc.",NYSE,Technology
+1688,TBN,463161439,Tamboran Resources Corporation,NYSE,Energy
+1689,VPG,447001670,"Vishay Precision Group, Inc.",NYSE,Technology
+1690,EHAB,446227962,"Enhabit, Inc.",NYSE,Healthcare
+1691,EBF,450253908,"Ennis, Inc.",NYSE,Industrials
+1692,MLR,441796187,"Miller Industries, Inc.",NYSE,Consumer Discretionary
+1693,NLOP,440866872,Net Lease Office Properties,NYSE,Real Estate
+1694,DIN,447077879,"Dine Brands Global, Inc.",NYSE,Consumer Discretionary
+1695,RYAM,435536355,Rayonier Advanced Materials Inc.,NYSE,Materials
+1696,TRC,434068434,Tejon Ranch Co.,NYSE,Industrials
+1697,WOW,443945492,"WideOpenWest, Inc.",NYSE,Communication Services
+1698,AMBQ,429261080,"Ambiq Micro, Inc.",NYSE,Technology
+1699,FVR,323263462,"FrontView REIT, Inc.",NYSE,Real Estate
+1700,EVTL,423098122,Vertical Aerospace Ltd.,NYSE,Industrials
+1701,ZEPP,116708733,Zepp Health Corporation,NYSE,Technology
+1702,FPI,433863270,Farmland Partners Inc.,NYSE,Real Estate
+1703,CHCT,443015357,Community Healthcare Trust Incorporated,NYSE,Real Estate
+1704,FTK,418454540,"Flotek Industries, Inc.",NYSE,Energy
+1705,ANRO,415046236,"Alto Neuroscience, Inc.",NYSE,Healthcare
+1706,PSFE,420165659,Paysafe Limited,NYSE,Technology
+1707,RC,418043032,Ready Capital Corporation,NYSE,Real Estate
+1708,GPRK,407815626,GeoPark Limited,NYSE,Energy
+1709,AII,408953858,"American Integrity Insurance Group, Inc.",NYSE,Financials
+1710,ASIX,407527411,AdvanSix Inc.,NYSE,Materials
+1711,SGU,406301666,"Star Group, L.P.",NYSE,Energy
+1712,PSBD,391516231,Palmer Square Capital BDC Inc.,NYSE,Financials
+1713,MTW,402595192,"The Manitowoc Company, Inc.",NYSE,Industrials
+1714,PACK,402472900,Ranpak Holdings Corp.,NYSE,Consumer Discretionary
+1715,HSHP,406381500,Himalaya Shipping Ltd.,NYSE,Industrials
+1716,CMDB,399976203,Costamare Bulkers Holdings Limited,NYSE,Industrials
+1717,NMG,399361897,Nouveau Monde Graphite Inc.,NYSE,Materials
+1718,MSB,397929903,Mesabi Trust,NYSE,Materials
+1719,TCI,397408536,"Transcontinental Realty Investors, Inc.",NYSE,Real Estate
+1720,NOA,409369509,North American Construction Group Ltd.,NYSE,Energy
+1721,CAL,394269645,"Caleres, Inc.",NYSE,Consumer Discretionary
+1722,PNNT,393735447,PennantPark Investment Corporation,NYSE,Financials
+1723,ZIP,428459470,"ZipRecruiter, Inc.",NYSE,Communication Services
+1724,HVT,393339445,"Haverty Furniture Companies, Inc.",NYSE,Consumer Discretionary
+1725,NGS,392275900,"Natural Gas Services Group, Inc.",NYSE,Energy
+1726,HVT.A,395787712,"Haverty Furniture Companies, Inc.",NYSE,Consumer Discretionary
+1727,BBBY,3173620355,"Bed Bath & Beyond, Inc.",NYSE,Consumer Discretionary
+1728,PKE,390552247,Park Aerospace Corp.,NYSE,Industrials
+1729,BOC,382206205,Boston Omaha Corporation,NYSE,Industrials
+1730,SITC,387530602,SITE Centers Corp.,NYSE,Real Estate
+1731,ORN,385842457,"Orion Group Holdings, Inc.",NYSE,Industrials
+1732,OSG,612263500,"Octave Specialty Group, Inc.",NYSE,Financials
+1733,GNE,379971913,Genie Energy Ltd.,NYSE,Utilities
+1734,MBI,379712068,MBIA Inc.,NYSE,Financials
+1735,DDL,381346692,Dingdong (Cayman) Limited,NYSE,Consumer Staples
+1736,GCO,376749025,Genesco Inc.,NYSE,Consumer Discretionary
+1737,KFS,375065661,Kingsway Financial Services Inc.,NYSE,Consumer Discretionary
+1738,MG,374161095,"Mistras Group, Inc.",NYSE,Industrials
+1739,SAR,371034962,Saratoga Investment Corp.,NYSE,Financials
+1740,OIS,368128622,"Oil States International, Inc.",NYSE,Energy
+1741,YRD,183712731,Yiren Digital Ltd.,NYSE,Financials
+1742,RM,364642838,Regional Management Corp.,NYSE,Financials
+1743,FCRS,364400000,FutureCrest Acquisition Corp.,NYSE,Financials
+1744,USNA,361960969,"USANA Health Sciences, Inc.",NYSE,Consumer Staples
+1745,NC,361415440,"NACCO Industries, Inc.",NYSE,Energy
+1746,GFR,361110191,Greenfire Resources Ltd.,NYSE,Energy
+1747,GFR.RT,,Greenfire Resources Ltd.,NYSE,
+1748,EGY,359690973,"VAALCO Energy, Inc.",NYSE,Energy
+1749,VHI,358873075,"Valhi, Inc.",NYSE,Materials
+1750,OWLT,207376641,"Owlet, Inc.",NYSE,Healthcare
+1751,LND,362549416,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,NYSE,Consumer Staples
+1752,ONIT,357083966,Onity Group Inc.,NYSE,Financials
+1753,BGS,355897873,"B&G Foods, Inc.",NYSE,Consumer Staples
+1754,KNOP,339089007,KNOT Offshore Partners LP,NYSE,Energy
+1755,SCM,335094420,Stellus Capital Investment Corporation,NYSE,Financials
+1756,WNC,346417246,Wabash National Corporation,NYSE,Industrials
+1757,FET,368879154,"Forum Energy Technologies, Inc.",NYSE,Energy
+1758,SOUL,259274400,Soulpower Acquisition Corporation,NYSE,Financials
+1759,AUNA,343560842,Auna S.A.,NYSE,Healthcare
+1760,MEC,341348616,"Mayville Engineering Company, Inc.",NYSE,Industrials
+1761,CLDT,331817031,Chatham Lodging Trust,NYSE,Real Estate
+1762,DAVA,361689529,Endava plc,NYSE,Technology
+1763,EAF,3327566390,GrafTech International Ltd.,NYSE,Industrials
+1764,LXFR,332197790,Luxfer Holdings PLC,NYSE,Industrials
+1765,HYAC,330558392,Haymaker Acquisition Corp. 4,NYSE,Financials
+1766,SMRT,328994857,"SmartRent, Inc.",NYSE,Technology
+1767,NREF,255903196,"NexPoint Real Estate Finance, Inc.",NYSE,Real Estate
+1768,IPI,336076108,"Intrepid Potash, Inc.",NYSE,Materials
+1769,OOMA,324955199,"Ooma, Inc.",NYSE,Technology
+1770,AVBC,316000175,"Avidia Bancorp, Inc.",NYSE,Financials
+1771,LZM,297047629,Lifezone Metals Limited,NYSE,Materials
+1772,ZH,293148752,Zhihu Inc.,NYSE,Communication Services
+1773,XYF,51917547,X Financial,NYSE,Financials
+1774,XPOF,223924444,"Xponential Fitness, Inc.",NYSE,Consumer Discretionary
+1775,ACCO,310969659,ACCO Brands Corporation,NYSE,Industrials
+1776,RAC,245117600,Rithm Acquisition Corp.,NYSE,Financials
+1777,BNED,310571085,"Barnes & Noble Education, Inc.",NYSE,Consumer Discretionary
+1778,SI,310055329,"Shoulder Innovations, Inc.",NYSE,Healthcare
+1779,SMC,309095423,Summit Midstream Corporation,NYSE,Energy
+1780,JACS,308623710,Jackson Acquisition Company II,NYSE,Financials
+1781,MLP,305420791,"Maui Land & Pineapple Company, Inc.",NYSE,Real Estate
+1782,MPX,301691673,Marine Products Corporation,NYSE,Consumer Discretionary
+1783,BRCC,375887568,BRC Inc.,NYSE,Consumer Staples
+1784,CBAN,299380128,"Colony Bankcorp, Inc.",NYSE,Financials
+1785,SPMC,294998598,"Sound Point Meridian Capital, Inc.",NYSE,Financials
+1786,JENA,295545000,Jena Acquisition Corporation II,NYSE,Financials
+1787,BRT,281311627,BRT Apartments Corp.,NYSE,Real Estate
+1788,CIA,293117178,"Citizens, Inc.",NYSE,Financials
+1789,EIC,307301884,Eagle Point Income Company Inc.,NYSE,Financials
+1790,ACRE,288888878,Ares Commercial Real Estate Corporation,NYSE,Real Estate
+1791,RNGR,285769482,"Ranger Energy Services, Inc.",NYSE,Energy
+1792,QUAD,285098360,"Quad/Graphics, Inc.",NYSE,Industrials
+1793,CLW,285001248,Clearwater Paper Corporation,NYSE,Materials
+1794,OEC,284117512,Orion S.A.,NYSE,Materials
+1795,CIO,276490934,"City Office REIT, Inc.",NYSE,Real Estate
+1796,PAII,275400000,Pyrophyte Acquisition Corp. II,NYSE,Financials
+1797,RMAX,168263413,"RE/MAX Holdings, Inc.",NYSE,Real Estate
+1798,VACI,274575337,Viking Acquisition Corp. I,NYSE,Financials
+1799,TG,274857993,Tredegar Corporation,NYSE,Industrials
+1800,SBXD,215186600,SilverBox Corp IV,NYSE,Financials
+1801,PINE,246323472,"Alpine Income Property Trust, Inc.",NYSE,Real Estate
+1802,SEG,267309140,Seaport Entertainment Group Inc.,NYSE,Real Estate
+1803,YCY,146200000,AA Mission Acquisition Corp. II,NYSE,Financials
+1804,COSO,265931602,"CoastalSouth Bancshares, Inc.",NYSE,Financials
+1805,NL,265813273,"NL Industries, Inc.",NYSE,Industrials
+1806,ASPN,265250887,"Aspen Aerogels, Inc.",NYSE,Industrials
+1807,AGL,264889069,"agilon health, inc.",NYSE,Healthcare
+1808,WTI,264761739,"W&T Offshore, Inc.",NYSE,Energy
+1809,XPER,264546019,Xperi Inc.,NYSE,Technology
+1810,SPIR,263105671,"Spire Global, Inc.",NYSE,Industrials
+1811,DDD,260050788,3D Systems Corporation,NYSE,Technology
+1812,TPVG,258086426,TriplePoint Venture Growth BDC Corp.,NYSE,Financials
+1813,CMCM,5153767,Cheetah Mobile Inc.,NYSE,Communication Services
+1814,MEI,257764460,"Methode Electronics, Inc.",NYSE,Technology
+1815,MITT,257130037,"AG Mortgage Investment Trust, Inc.",NYSE,Real Estate
+1816,SLQT,255159029,"SelectQuote, Inc.",NYSE,Financials
+1817,ARL,253587075,"American Realty Investors, Inc.",NYSE,Real Estate
+1818,CVEO,288256536,Civeo Corporation,NYSE,Consumer Discretionary
+1819,SJT,250755322,San Juan Basin Royalty Trust,NYSE,Energy
+1820,EVC,246639696,Entravision Communications Corporation,NYSE,Communication Services
+1821,COPL,242978744,Copley Acquisition Corp,NYSE,Financials
+1822,TRAK,240318762,"ReposiTrak, Inc.",NYSE,Technology
+1823,EB,240255024,"Eventbrite, Inc.",NYSE,Communication Services
+1824,ONTF,236425886,"ON24, Inc.",NYSE,Technology
+1825,LANV,236952262,Lanvin Group Holdings Limited,NYSE,Consumer Discretionary
+1826,JILL,172508565,"J.Jill, Inc.",NYSE,Consumer Discretionary
+1827,DOUG,227330824,Douglas Elliman Inc.,NYSE,Real Estate
+1828,NRDY,147526356,"Nerdy, Inc.",NYSE,Technology
+1829,SPCE,221832702,"Virgin Galactic Holdings, Inc.",NYSE,Industrials
+1830,JELD,219501456,"JELD-WEN Holding, Inc.",NYSE,Industrials
+1831,AOMR,200714858,"Angel Oak Mortgage REIT, Inc.",NYSE,Real Estate
+1832,HBB,212696356,Hamilton Beach Brands Holding Company,NYSE,Consumer Discretionary
+1833,OMI,212474705,"Owens & Minor, Inc.",NYSE,Healthcare
+1834,AMPY,212094224,Amplify Energy Corp.,NYSE,Energy
+1835,CBNA,205646749,"Chain Bridge Bancorp, Inc.",NYSE,Financials
+1836,EARN,204008380,Ellington Credit Company,NYSE,Financials
+1837,ZVIA,181393807,Zevia PBC,NYSE,Consumer Staples
+1838,BHR,185556855,Braemar Hotels & Resorts Inc.,NYSE,Real Estate
+1839,SRG,199952355,Seritage Growth Properties,NYSE,Real Estate
+1840,DBI,195877295,Designer Brands Inc.,NYSE,Consumer Discretionary
+1841,DSX,200289020,Diana Shipping Inc.,NYSE,Industrials
+1842,AIIA,149800000,AI Infrastructure Acquisition Corp.,NYSE,Financials
+1843,AIIA.RT,,AI Infrastructure Acquisition Corp.,NYSE,Financials
+1844,FOA,239717042,Finance of America Companies Inc.,NYSE,Financials
+1845,FC,188050721,Franklin Covey Co.,NYSE,Consumer Staples
+1846,SMHI,188024525,SEACOR Marine Holdings Inc.,NYSE,Industrials
+1847,GHG,185059878,GreenTree Hospitality Group Ltd.,NYSE,Consumer Discretionary
+1848,CHPT,181688363,"ChargePoint Holdings, Inc.",NYSE,Consumer Discretionary
+1849,UIS,181117509,Unisys Corporation,NYSE,Technology
+1850,MDV,152069956,"Modiv Industrial, Inc.",NYSE,Real Estate
+1851,PERF,174435122,Perfect Corp.,NYSE,Technology
+1852,CLPR,60872478,Clipper Realty Inc.,NYSE,Real Estate
+1853,SRI,158854156,"Stoneridge, Inc.",NYSE,Consumer Discretionary
+1854,GHI,158709909,Greystone Housing Impact Investors LP,NYSE,Financials
+1855,VLN,160592902,Valens Semiconductor Ltd.,NYSE,Technology
+1856,ALTG,156341123,Alta Equipment Group Inc.,NYSE,Industrials
+1857,TBI,150595524,"TrueBlue, Inc.",NYSE,Industrials
+1858,AKA,148976893,a.k.a. Brands Holding Corp.,NYSE,Consumer Discretionary
+1859,ACR,155503311,ACRES Commercial Realty Corp.,NYSE,Real Estate
+1860,FF,141484475,FutureFuel Corp.,NYSE,Materials
+1861,WHG,159279641,"Westwood Holdings Group, Inc.",NYSE,Financials
+1862,IH,29279437,iHuman Inc.,NYSE,Consumer Staples
+1863,DLNG,137356184,Dynagas LNG Partners LP,NYSE,Energy
+1864,STEM,134411132,"Stem, Inc.",NYSE,Utilities
+1865,GPMT,130365769,Granite Point Mortgage Trust Inc.,NYSE,Real Estate
+1866,ANVS,94826824,"Annovis Bio, Inc.",NYSE,Healthcare
+1867,SRFM,68435380,Surf Air Mobility Inc.,NYSE,Industrials
+1868,AVD,125250844,American Vanguard Corporation,NYSE,Materials
+1869,CURV,129239145,Torrid Holdings Inc.,NYSE,Consumer Discretionary
+1870,ONL,122765902,Orion Properties Inc.,NYSE,Real Estate
+1871,BARK,121025573,"BARK, Inc.",NYSE,Consumer Discretionary
+1872,RPT,117195024,Rithm Property Trust Inc.,NYSE,Real Estate
+1873,AXR,114873796,AMREP Corporation,NYSE,Real Estate
+1874,MED,119914788,"Medifast, Inc.",NYSE,Consumer Discretionary
+1875,SKIL,112091368,Skillsoft Corp.,NYSE,Consumer Staples
+1876,COOK,105619569,"Traeger, Inc.",NYSE,Consumer Discretionary
+1877,PEW,108515718,GrabAGun Digital Holdings Inc.,NYSE,Industrials
+1878,CHGG,98433216,"Chegg, Inc.",NYSE,Consumer Staples
+1879,SPRU,92112815,Spruce Power Holding Corporation,NYSE,Technology
+1880,SOL,91352487,Emeren Group Ltd,NYSE,Technology
+1881,SQNS,140128110,Sequans Communications S.A.,NYSE,Technology
+1882,CHMI,84500937,Cherry Hill Mortgage Investment Corporation,NYSE,Real Estate
+1883,MX,84007885,Magnachip Semiconductor Corporation,NYSE,Technology
+1884,LFT,83248167,"Lument Finance Trust, Inc.",NYSE,Real Estate
+1885,DHX,89059205,"DHI Group, Inc.",NYSE,Technology
+1886,SRL,83004606,Scully Royalty Ltd.,NYSE,Financials
+1887,SKLZ,85530005,Skillz Inc.,NYSE,Communication Services
+1888,TSQ,75367270,"Townsquare Media, Inc.",NYSE,Communication Services
+1889,STG,77637828,Sunlands Technology Group,NYSE,Consumer Staples
+1890,GCTS,74800421,"GCT Semiconductor Holding, Inc.",NYSE,Technology
+1891,KORE,72593016,"KORE Group Holdings, Inc.",NYSE,Communication Services
+1892,OPAD,56208507,Offerpad Solutions Inc.,NYSE,Real Estate
+1893,VATE,70779987,INNOVATE Corp.,NYSE,Industrials
+1894,AMTD,7293652,AMTD IDEA Group,NYSE,Financials
+1895,AMWL,66302368,American Well Corporation,NYSE,Healthcare
+1896,TISI,65057861,"Team, Inc.",NYSE,Industrials
+1897,BEDU,16335347,Bright Scholar Education Holdings Limited,NYSE,Consumer Staples
+1898,CATO,64127336,The Cato Corporation,NYSE,Consumer Discretionary
+1899,RFL,42463053,"Rafael Holdings, Inc.",NYSE,Real Estate
+1900,UFI,61691828,"Unifi, Inc.",NYSE,Consumer Discretionary
+1901,PSQH,59274212,"PSQ Holdings, Inc.",NYSE,Technology
+1902,PVL,57420000,Permianville Royalty Trust,NYSE,Energy
+1903,GROV,56701087,"Grove Collaborative Holdings, Inc.",NYSE,Consumer Staples
+1904,NRT,55143540,North European Oil Royalty Trust,NYSE,Energy
+1905,CRT,53040000,Cross Timbers Royalty Trust,NYSE,Energy
+1906,LOCL,51223486,Local Bounti Corporation,NYSE,Consumer Staples
+1907,CULP,50953552,"Culp, Inc.",NYSE,Consumer Discretionary
+1908,GWH,32498284,"ESS Tech, Inc.",NYSE,Industrials
+1909,WBX,33506535,Wallbox N.V.,NYSE,Technology
+1910,AP,50714341,Ampco-Pittsburgh Corporation,NYSE,Industrials
+1911,BGSF,48942571,"BGSF, Inc.",NYSE,Industrials
+1912,TGE,47998159,The Generation Essentials Group,NYSE,Financials
+1913,PRT,47446355,PermRock Royalty Trust,NYSE,Energy
+1914,VOC,46410000,VOC Energy Trust,NYSE,Energy
+1915,CNF,15910087,CNFinance Holdings Limited,NYSE,Financials
+1916,LITB,18121119,"LightInTheBox Holding Co., Ltd.",NYSE,Consumer Discretionary
+1917,TLYS,35781836,"Tilly's, Inc.",NYSE,Consumer Discretionary
+1918,SST,34992748,"System1, Inc.",NYSE,Industrials
+1919,NOTE,33342149,"FiscalNote Holdings, Inc.",NYSE,Technology
+1920,TSE,33391253,Trinseo PLC,NYSE,Materials
+1921,FEDU,2839271,Four Seasons Education (Cayman) Inc.,NYSE,Consumer Staples
+1922,NTZ,27095938,Natuzzi S.p.A.,NYSE,Consumer Discretionary
+1923,SLAI,247982,SOLAI Limited,NYSE,Technology
+1924,FENG,236242,Phoenix New Media Limited,NYSE,Communication Services
+1925,EQS,26085452,"Equus Total Return, Inc.",NYSE,Financials
+1926,MOGU,19483200,MOGU Inc.,NYSE,Consumer Discretionary
+1927,AHT,20516467,"Ashford Hospitality Trust, Inc.",NYSE,Real Estate
+1928,NYC,19819246,American Strategic Investment Co.,NYSE,Real Estate
+1929,SBDS,13265007,"Solo Brands, Inc.",NYSE,Consumer Discretionary
+1930,NINE,18410985,"Nine Energy Service, Inc.",NYSE,Energy
+1931,ALUR,11184607,Allurion Technologies Inc.,NYSE,Healthcare
+1932,CCM,579544,Concord Medical Services Holdings Limited,NYSE,Healthcare
+1933,RBOT,14676740,Vicarious Surgical Inc.,NYSE,Healthcare
+1934,CRNG,,"CorEnergy Infrastructure Trust, Inc.",NYSE,
+1935,SOS,7541199,SOS Limited,NYSE,Financials
+1936,MTR,8870688,Mesa Royalty Trust,NYSE,Energy

@@ -1,0 +1,27 @@
+{
+  "moduleResolution": "bundler",
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    // File Layout
+    // "rootDir": "./src",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "target": "esnext",
+    "module": "nodenext",
+    "strict": true,
+    "esModuleInterop": true,
+    "types": [],
+    "sourceMap": false,
+    "declaration": true,
+    "declarationMap": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
